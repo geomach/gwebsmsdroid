@@ -1,5 +1,6 @@
 #labels Featured,Changelog
-====2.6====
+=Changelog WebSMS=
+====v2.6====
  * add innosend.de
  * add standard sms
  * fix for android 2.0
@@ -8,12 +9,12 @@
  * fix link to project
  * remove ads for donators
  * some more inner changes
-====2.5.4====
+====v2.5.4====
  * change notification icons
  * fix sending from contacts
  * remove ads for donator
  * fix failed send
-====2.5.3====
+====v2.5.3====
  * fix Sipgate.de Connector
 ====v2.5.2====
  * speed up O2
