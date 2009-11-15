@@ -1,0 +1,63 @@
+#labels Featured,Changelog
+====2.6====
+ * add innosend.de
+ * add standard sms
+ * fix for android 2.0
+ * set update link focusable by trackball
+ * redesign main+prefs
+ * fix link to project
+ * remove ads for donators
+ * some more inner changes
+====2.5.4====
+ * change notification icons
+ * fix sending from contacts
+ * remove ads for donator
+ * fix failed send
+====2.5.3====
+ * fix Sipgate.de Connector
+====v2.5.2====
+ * speed up O2
+====v2.5.1====
+ * remove ads for donator
+ * hint to solve captcha
+====v2.5====
+ * Split IO from app
+ * detect O2 captcha
+====v2.4.3====
+ * Check userinput for default prefix
+====v2.4.2====
+ * Remove ads for donator
+ * fix O2 captcha
+====v2.4.1====
+ * Remove ads for donator
+ * minor changes to Sipgate and GUI
+====v2.4====
+ * Add [http://www.sipgate.de Sipgate.de] Connector
+====v2.3====
+ * Add Changelog
+ * auto follow GMX hostchange
+ * fix for 1.6
+====v2.2.8====
+ * Follow GMX hostname change
+====v2.2.7====
+ * Better hint on sender preference
+ * add service-down message
+====v2.2.6====
+ * Fix save messages after send
+====v2.2.5====
+ * Check sender preferences on enter
+====v2.2.4====
+ * Add message for GMX result code 71
+ * update admob lib
+====v2.2.3====
+ * Improve free counter
+ * remove ads for donator
+====v2.2.2====
+ * Add message for GMX result code 8
+====v2.2.1====
+ * Remove ads for donators
+====v2.2====
+ * Save fields on crash
+====v2.1====
+ * Turn off GMX connector by default
+ * remove ads for donators
