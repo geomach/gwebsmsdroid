@@ -1,5 +1,11 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
+====v2.6.1====
+ * add support for Sipgate.de team accounts
+ * autocomplete name if started from contacts
+ * fix for cyanogen mod 4.2.5
+ * update account balance on startup
+ * new design for alternative layout
 ====v2.6====
  * add innosend.de
  * add standard sms
