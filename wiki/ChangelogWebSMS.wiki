@@ -1,5 +1,8 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
+====v2.7====
+ * support for [http://www.cherry-sms.com/?ref=DWNWAAAU Cherry-SMS.com]
+ * force recipients as single line in portrait mode
 ====v2.6.1====
  * add support for Sipgate.de team accounts
  * autocomplete name if started from contacts
@@ -7,8 +10,8 @@
  * update account balance on startup
  * new design for alternative layout
 ====v2.6====
- * add innosend.de
- * add standard sms
+ * add support for [http://www.innosend.de/index.php?seite=anmeld&gutschein=4d703626-1328 Innosend.de]
+ * add support for standard sms
  * fix for android 2.0
  * set update link focusable by trackball
  * redesign main+prefs
