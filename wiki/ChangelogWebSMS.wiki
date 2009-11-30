@@ -1,5 +1,9 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
+====v2.7.1====
+ * readd button to change provider
+ * turn off autoupdate by default (check prefs for both)
+ * remove ads for donator
 ====v2.7====
  * support for [http://www.cherry-sms.com/?ref=DWNWAAAU Cherry-SMS.com]
  * force recipients as single line in portrait mode
