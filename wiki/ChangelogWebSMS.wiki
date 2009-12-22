@@ -1,7 +1,7 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
 ====v2.8====
- * add support for sloono.de
+ * add support for [http://www.sloono.de/?ref=tzil5PslxBSLhluFQknvjA== sloono.de]
  * allow to show only mobile numbers
  * workaround for cyanogen mod 4.2.9.1
  * add extra features to some providers
