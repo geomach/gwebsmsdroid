@@ -1,5 +1,7 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
+====v2.8.4====
+ * fix non us-ascii for innosend
 ====v2.8.3====
  * fix+improve innosend connector
 ====v2.8.2====
