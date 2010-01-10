@@ -1,5 +1,10 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
+====v2.8.3====
+ * fix+improve innosend connector
+====v2.8.2====
+ * fix some bugs
+ * implement autoexit (check prefs)
 ====v2.8.1====
  * new icon
  * fix some minor bugs
