@@ -1,5 +1,8 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
+====v2.9====
+ * add support for [http://www.arcor.de arcor.de]
+ * add hdpi icon
 ====v2.8.4====
  * fix non us-ascii for innosend
 ====v2.8.3====
