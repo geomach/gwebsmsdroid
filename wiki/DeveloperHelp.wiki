@@ -25,7 +25,9 @@ Well, as you decided where to implement your Connector, you will need the public
 
 There is a javadoc run hosted [http://nossl.ub0r.de/~f/websms/doc/ here]. This build from the whole WebSMS project tree.
 
-You may download the ConnectorExample from the git repo, or from download section (as soon it is available there).
+You may download the ConnectorExample from the git repo, or from download section (as soon it is available there). Or if you like it hardcore, you can even download the API as single jar-file.
+
+Basically you just need to inherit the [http://nossl.ub0r.de/~f/websms/doc/de/ub0r/android/websms/connector/common/Connector.html Connector] class. But see the example or any other Connector for more details.
 
 With all this, you should be able to build and deploy your own Connector \o/
 If something is unclear. Do not hesitate to ask me.
