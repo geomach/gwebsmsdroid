@@ -4,7 +4,9 @@
 = Introduction =
 
 WebSMS is built modular. This makes it very easy to implement new Connectors.
-For WebSMS-2.* all Connectors are shipped within the WebSMS.apk file downloaded from here or from android market.
+
+For WebSMS-2.`*` all Connectors are shipped within the WebSMS.apk file downloaded from here or from android market.
+
 WebSMS-3 is a overall redesign of Connector-handling. It splits all Connectors, but ConnectorSMS, from WebSMS.apk. Each Connector is installed separately.
 This makes it even more easy to build your own Connector and even deploy it on your own!
 
