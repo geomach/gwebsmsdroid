@@ -1,0 +1,31 @@
+#summary If you want to code your own Connector, please read this page.
+#labels Featured,Phase-Implementation
+
+= Introduction =
+
+WebSMS is built modular. This makes it very easy to implement new Connectors.
+For WebSMS-2.* all Connectors are shipped within the WebSMS.apk file downloaded from here or from android market.
+WebSMS-3 is a overall redesign of Connector-handling. It splits all Connectors, but ConnectorSMS, from WebSMS.apk. Each Connector is installed separately.
+This makes it even more easy to build your own Connector and even deploy it on your own!
+
+= Details =
+
+To build your own Connector you will have to think about:
+
+ # Where to host the code:
+  * Should the code be hold by the [http://repo.or.cz/w/andGMXsms.git websms git repository]? You may even use this Google Codes site too.
+  * Or will you host it on your own? I'd prefer to integrate it in WebSMS-repo. But there is no problem if you want it in your hands.
+ # Who should publish it to market:
+  * You may publish it on your own.
+  * I may publish the Connector for you.
+
+= API =
+
+Well, as you decided where to implement your Connector, you will need the public API of WebSMS's Connector framework.
+
+There is a javadoc run hosted [http://nossl.ub0r.de/~f/websms/doc/ here]. This build from the whole WebSMS project tree.
+
+You may download the ConnectorExample from the git repo, or from download section (as soon it is available there).
+
+With all this, you should be able to build and deploy your own Connector \o/
+If something is unclear. Do not hesitate to ask me.
