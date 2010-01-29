@@ -1,10 +1,10 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
-===WebSMS 3.x===
+==WebSMS 3.x==
 ====v2.9.92 (3.0 beta2)====
  * split connectors to separate packages, check market!
  * add emoticons button
-===WebSMS 2.x===
+==WebSMS 2.x==
 ====v2.9.2====
  * fix arcor with unlimited sms
  * allow to hide cancel button
