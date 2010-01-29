@@ -1,3 +1,1 @@
-The Sourcecode of WebSMS is hosted [http://repo.or.cz/w/andGMXsms.git here].
-
-The Sourcecode of SMSdroid is hosted [http://repo.or.cz/w/smsdroid.git here].
+The Sourcecode of WebSMS is hosted [http://github.com/felixb/websms here].
