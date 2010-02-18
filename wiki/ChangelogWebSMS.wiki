@@ -1,6 +1,11 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.0.2====
+ * fix layout
+====v3.0.1====
+ * fix migration from beta
+ * fix sending to multiple recipients for some connectors
 ====v3.0====
  * split connectors to separate packages, check market!
  * add emoticons button
