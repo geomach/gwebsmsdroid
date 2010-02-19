@@ -15,7 +15,7 @@ This makes it even more easy to build your own Connector and even deploy it on y
 To build your own Connector you will have to think about:
 
  # Where to host the code:
-  * Should the code be hold by the [http://repo.or.cz/w/andGMXsms.git websms git repository]? You may even use this Google Codes site too.
+  * Should the code be hold by the [http://github.com/felixb/websms websms git repository]? You may even use this Google Codes site too.
   * Or will you host it on your own? I'd prefer to integrate it in WebSMS-repo. But there is no problem if you want it in your hands.
  # Who should publish it to market:
   * You may publish it on your own.
