@@ -1,0 +1,39 @@
+#labels Featured
+# Fequently Ask Questions
+
+==How do i set up WebSMS?==
+
+ # Install WebSMS:
+  * Install WebSMS from market (there is a barcode on the main page).
+  * Or go to download section and install it from there.
+ # Start WebSMS and open it's preferences via menu.
+ # Set sender and international prefix.
+ # Install Connectors:
+  * Click the "more connectors" preferneces. It will launch the market search.
+  * Or install Connectors from this website.
+ # Restart WebSMS now!
+ # Go to prefernences again.
+ # Above the "more connectors" prefernece you will find the preferences for all Connectors installed. Click them.
+ # For each Connector, you may set:
+  * En-/disable the Connector.
+  * Set username and password. (for some, the username is set to your sender you set above automatically)
+  * Set a alternative sender, which may differ from the one set in main preferences. (This may set your username for some Connectors as well)
+ # Finally you should set the connector you want to use via menu or button (if not hidden). The chosen Connector is displayed in the textfield in big grey letters.
+
+==What Connector should i use?==
+
+If you own a account for one of the Connectors, use it. You may use your free sms there.
+
+If you don't own an account, the answer differs on your location. At the moment most Connectors are working only for german or austrian people.
+Fishtext is specialized on international SMS and should work for most people.
+
+For backup purpose there is a SMS Connector shipped with the main app.
+It will send real SMS via your carrier which are billed as normal.
+
+==What is the password for sending a SMS?==
+
+It is the password you set on the Connectors website while registration.
+
+==What is the website of a Connector?==
+
+Please use google. I am pretty sure, google knows the connectors website.
