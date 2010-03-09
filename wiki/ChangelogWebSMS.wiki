@@ -1,6 +1,11 @@
 #labels Featured,Changelog
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.0.4====
+ * add clear recipients button
+ * fix some minor issues
+====v3.0.3====
+ * fix thread for sent messages
 ====v3.0.2====
  * fix layout
 ====v3.0.1====
