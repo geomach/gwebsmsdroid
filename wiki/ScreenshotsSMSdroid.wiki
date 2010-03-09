@@ -1,4 +1,4 @@
-#labels Featured,Screenshots
+#labels Screenshots
 =Screenshots SMSdroid=
 
 none here yet :/
