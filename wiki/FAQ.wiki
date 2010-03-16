@@ -37,3 +37,8 @@ It is the password you set on the Connectors website while registration.
 ==What is the website of a Connector?==
 
 Please use google. I am pretty sure, google knows the connectors website.
+
+==What is the "prefix"?==
+
+You should enter your international country code here (E.g. +1 for US, +49 for Germany).
+See the full list @[http://en.wikipedia.org/wiki/Country_calling_code wikipedia].
