@@ -1,5 +1,5 @@
+#summary Fequently Ask Questions
 #labels Featured
-# Fequently Ask Questions
 
 ==How do i set up WebSMS?==
 
