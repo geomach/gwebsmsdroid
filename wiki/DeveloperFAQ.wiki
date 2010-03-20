@@ -1,0 +1,10 @@
+#summary FAQ for developers
+
+==I cloned the git repository, but the
+package de.ub0r.android.websms.connector.common is missing.==
+
+that's right. on linux you may use the buildjar.sh to build it. on any other platform you may copy the .jar from the example connector.
+
+i just don't like bin files in scm. that's the reason.
+
+btw: there are many files symlinked, which have to be replaced on windoze machines too.
