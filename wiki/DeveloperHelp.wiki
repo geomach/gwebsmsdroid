@@ -1,5 +1,5 @@
 #summary If you want to code your own Connector, please read this page.
-#labels Featured,Phase-Implementation
+#labels Featured,Phase-Implementation,FAQ
 
 = Introduction =
 
