@@ -1,7 +1,7 @@
 #summary FAQ for developers
+#labels FAQ
 
-==I cloned the git repository, but the
-package de.ub0r.android.websms.connector.common is missing.==
+==I cloned the git repository, but the package de.ub0r.android.websms.connector.common is missing.==
 
 that's right. on linux you may use the buildjar.sh to build it. on any other platform you may copy the .jar from the example connector.
 
