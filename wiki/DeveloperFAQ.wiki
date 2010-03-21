@@ -1,10 +1,54 @@
 #summary FAQ for developers
 #labels FAQ
 
-==I cloned the git repository, but the package de.ub0r.android.websms.connector.common is missing.==
+== I cloned the git repository, but the package de.ub0r.android.websms.connector.common is missing. ==
 
 that's right. on linux you may use the buildjar.sh to build it. on any other platform you may copy the .jar from the example connector.
 
 i just don't like bin files in scm. that's the reason.
 
 btw: there are many files symlinked, which have to be replaced on windoze machines too.
+
+== Why are there eclipse projects within the main project? ==
+
+This is grown historically.
+Until WebSMS-2.x all connectors were running in the main context.
+As i moved them out, I needed some space to create a project for each of them.
+That's the /connectors space.
+Just ignore that path in the main WebSMS project.
+
+If you do not want to use eclipse, there are some build.xml files for every project.
+Run ant to build the apk files.
+All my deployment scripts are doing that too.
+
+== How should I install a Connector on the emulator/device? ==
+
+When it comes to deploying the connectors to the emulator,
+I just run the adb install -r <path/to/connector.apk> from shell.
+I don't know, how to install it from eclipse directly, because there is no activity (in fact there is the shared info screen) to run.
+If someone knows a better way, please contact me.
+
+== How do i get the running ConnectorSpec? ==
+
+Just use:
+{{{
+ConnectorSpec c = this.getSpec(context);
+}}}
+
+Eg. to set balance you could use this code:
+{{{
+String balance = getBalanceFromWebService(???);
+ConnectorSpec c = this.getSpec(context);
+c.setBalance(balance);
+Log.d(TAG, "balance: " + c.getBalance());
+}}}
+
+== In updateSpec() I get a ConnectorSpec object and I assumed that this is where I can update the balance since there is an setBalance method. As I do not have a ConnectorSpec object in doUpdate, I have to store the reference when updateSpec() initSpec() gets called and reuse it in doUpdate(). That might be the problem, but I haven't found another way so far. Is that the right method? ==
+
+Wrong.
+Please do not do any IO in updateSpec() or initSpec().
+Just set the basic capabilities, features and settings in updateSpec() and initSpec().
+
+Get the ConnectorSpec reference with this.getSpec(context) as mentioned above.
+
+See [DeveloperHelp] for more details.
