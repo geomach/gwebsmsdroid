@@ -1,4 +1,6 @@
-#labels Changelog
+#summary Changelog: SMSdroid
+#labels Changelog,Featured
+
 =Changelog SMSdroid=
-====v0.1====
+====v0.0.1====
  * initial market release
