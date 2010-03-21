@@ -1,4 +1,6 @@
+#summary Changelog: SMSdroid
 #labels Screenshots
+
 =Screenshots SMSdroid=
 
 none here yet :/
