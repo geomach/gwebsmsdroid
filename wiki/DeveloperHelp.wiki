@@ -33,3 +33,13 @@ Basically you just need to inherit the [http://nossl.ub0r.de/~f/websms/doc/de/ub
 
 With all this, you should be able to build and deploy your own Connector \o/
 If something is unclear. Do not hesitate to ask me.
+
+= FAQ =
+
+Please have a look on the DeveloperFAQ.
+
+= UML =
+
+Here is a sequence diagram showing how the inner communication is working:
+
+[http://websmsdroid.googlecode.com/svn/wiki/sequence.png]
