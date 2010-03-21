@@ -1,4 +1,6 @@
+#summary Screenshots: WebSMS
 #labels Featured,Screenshots
+
 =Screenshots WebSMS=
 [http://websmsdroid.googlecode.com/svn/wiki/screen1.png]
 [http://websmsdroid.googlecode.com/svn/wiki/screen2.png]
