@@ -36,7 +36,7 @@ If something is unclear. Do not hesitate to ask me.
 
 = FAQ =
 
-Please have a look on the DeveloperFAQ.
+Please have a look on the [DeveloperFAQ].
 
 = UML =
 
