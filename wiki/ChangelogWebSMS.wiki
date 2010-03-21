@@ -1,4 +1,6 @@
+#summary Changelog: WebSMS
 #labels Featured,Changelog
+
 =Changelog WebSMS=
 ==WebSMS 3.x==
 ====v3.0.6====
