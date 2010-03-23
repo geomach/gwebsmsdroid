@@ -3,11 +3,11 @@
 
 =Changelog SMSdroid=
 ====v0.0.3====
- * Add contact photos
+ * Add contact photos (issue #97)
  * allow swap message list
- * fix light theme on prefs
+ * fix light theme on prefs (issue #114)
 ====v0.0.2====
  * Fix name in notification
- * add theme support
+ * add theme support (issue #102)
 ====v0.0.1====
  * initial market release
