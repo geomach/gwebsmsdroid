@@ -2,6 +2,13 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.0.4====
+ * Fix ListView behavior (issue #113)
+ * allow to change notification settings (issue #108, #111)
+ * answer/call/view/add contact from thread (issue #100)
+ * display message count (issue #104)
+ * minor changes (issue #121)
+ * fix photo on devices with api5 or higher (?, issue #116)
 ====v0.0.3====
  * Add contact photos (issue #97)
  * allow swap message list
