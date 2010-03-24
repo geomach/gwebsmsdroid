@@ -4,7 +4,7 @@
 =Changelog SMSdroid=
 ====v0.0.4====
  * Fix ListView behavior (issue #113)
- * allow to change notification settings (issue #108, #111)
+ * allow to change notification settings (issue #108, issue #111)
  * answer/call/view/add contact from thread (issue #100)
  * display message count (issue #104)
  * minor changes (issue #121)
