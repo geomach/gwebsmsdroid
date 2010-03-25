@@ -23,6 +23,8 @@
  * add emoticons button
  * many internal changes
 ==WebSMS 2.x==
+====v2.9.4====
+ * minor changes
 ====v2.9.3====
  * add migration hint
  * minor changes
