@@ -2,6 +2,12 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.0.5====
+ * Change/fix layout (issue #115)
+ * new icon (issue #103)
+ * show outgoing messages in different color (issue #105)
+ * fix some fc (issue #125, issue #122(?))
+ * fix issue #123(?)
 ====v0.0.4====
  * Fix ListView behavior (issue #113)
  * allow to change notification settings (issue #108, issue #111)
