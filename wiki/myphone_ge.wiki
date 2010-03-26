@@ -1,5 +1,5 @@
-#labels Connector,myphone
-#describes myphone.ge connector
+#summary About myphone.ge
+#labels Connector,myphone,Featured
 
 = Introduction =
 
