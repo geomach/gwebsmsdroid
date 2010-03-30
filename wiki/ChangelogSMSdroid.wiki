@@ -2,6 +2,14 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.0.7====
+ * changes on layout (issue #129)
+ * add widget (issue #106)
+ * fix notifications (issue #123)
+ * minor fixes  (issue #125)
+====v0.0.6====
+ * Rollback some changes on Contacts Cache (Fix FC on Milestone/Droid)
+ * allow to choose sending app with longclick on compose/answer
 ====v0.0.5====
  * Change/fix layout (issue #115)
  * new icon (issue #103)
