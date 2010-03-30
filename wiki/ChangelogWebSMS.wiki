@@ -3,6 +3,10 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.0.8====
+ * listen to text/plain intents
+ * use new contacts api wrapper
+ * minor inner changes
 ====v3.0.6====
  * minor changes to gui
 ====v3.0.5====
