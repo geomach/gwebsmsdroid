@@ -2,6 +2,8 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.0.8====
+ * fix some FCs (issue #122, issue #137, ..)
 ====v0.0.7====
  * changes on layout (issue #129)
  * add widget (issue #106)
