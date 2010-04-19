@@ -3,6 +3,13 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.0.10====
+ * Add option to strip blanks (issue #109)
+ * add default recipient (issue #147)
+ * add contacts button to main (issue #124)
+ * fix smiley/cursor position (issue #134)
+====v3.0.9====
+ * Fix FC when launched by shortcut
 ====v3.0.8====
  * listen to text/plain intents
  * use new contacts api wrapper
