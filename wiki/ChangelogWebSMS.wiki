@@ -3,6 +3,13 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.0.13 (not yet released)====
+ * Allow to reply from smspopup
+====v3.0.12====
+ * Hotfix for android-1.5 and -1.6
+====v3.0.11====
+ * Fix layout
+ * new emoticons (thanks to robert priebs)
 ====v3.0.10====
  * Add option to strip blanks (issue #109)
  * add default recipient (issue #147)
