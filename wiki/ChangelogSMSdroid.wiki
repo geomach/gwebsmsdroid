@@ -2,6 +2,17 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.0.10====
+ * Move some IO to background
+ * add emotions (issue #101)
+ * fix contacts w/o international prefix (issue #189, issue #192)
+ * fix disabled notification blocking widget (issue #168)
+ * notify for new mms (issue #145)
+ * fix issue #190
+====v0.0.9====
+ * Fix some notification bugs
+ * allow to set font size
+ * fix FC from smspopup (issue #180)
 ====v0.0.8====
  * fix some FCs (issue #122, issue #137, ..)
 ====v0.0.7====
