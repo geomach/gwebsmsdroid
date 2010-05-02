@@ -3,7 +3,12 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
-====v3.0.13 (not yet released)====
+====v3.0.15 (not yet released)====
+ * Fix ;( emoticon
+ * change layout
+====v3.0.14====
+ * Fix cleaning the numbers before sending a message
+====v3.0.13====
  * Allow to reply from smspopup
 ====v3.0.12====
  * Hotfix for android-1.5 and -1.6
