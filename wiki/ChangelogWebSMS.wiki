@@ -7,7 +7,7 @@
  * Fix ;( emoticon
  * change layout
 ====v3.0.14====
- * Fix cleaning the numbers before sending a message
+ * Fix cleaning the numbers before sending a message (issue #188)
 ====v3.0.13====
  * Allow to reply from smspopup
 ====v3.0.12====
