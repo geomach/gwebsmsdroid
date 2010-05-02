@@ -11,7 +11,7 @@
  * fix issue #190
 ====v0.0.9====
  * Fix some notification bugs
- * allow to set font size
+ * allow to set font size (issue #138)
  * fix FC from smspopup (issue #180)
 ====v0.0.8====
  * fix some FCs (issue #122, issue #137, ..)
