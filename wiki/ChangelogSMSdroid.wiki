@@ -3,8 +3,8 @@
 
 =Changelog SMSdroid=
 ====v0.0.11====
- * handle mms,
- * fix some bugs
+ * handle mms (issue #99)
+ * fix some bugs 
 ====v0.0.10====
  * Move some IO to background
  * add emotions (issue #101)
