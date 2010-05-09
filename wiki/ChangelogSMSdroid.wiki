@@ -5,6 +5,7 @@
 ====v0.0.12====
  * Fix contact names/photos for android-2.x (issue #199)
  * add bubbles (issue #112)
+ * fix vibrator (issue #193)
 ====v0.0.11====
  * handle mms (issue #99)
  * fix some bugs 
