@@ -3,9 +3,10 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
-====v3.0.15 (not yet released)====
+====v3.1====
  * Fix ;( emoticon
  * change layout
+ * save messages as pending
 ====v3.0.14====
  * Fix cleaning the numbers before sending a message (issue #188)
 ====v3.0.13====
