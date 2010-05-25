@@ -2,6 +2,18 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.1====
+ * Fix contact names (issue #199)
+ * fix missing threads (issue #200)
+ * fix some NPEs
+ * catch OOMEs
+====v0.0.15====
+ * Inner changes
+ * time format
+====v0.0.14====
+ * Work on issue #199
+====v0.0.13====
+ * Fix FC with empty contactId
 ====v0.0.12====
  * Fix contact names/photos for android-2.x (issue #199)
  * add bubbles (issue #112)
