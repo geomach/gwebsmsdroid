@@ -3,6 +3,9 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.1.4====
+ * Hotfix switching subconnectors
+ * hotfix selecting contact (issue #222)
 ====v3.1.3====
  * Add autocaps. (issue #202)
  * fix some bugs
