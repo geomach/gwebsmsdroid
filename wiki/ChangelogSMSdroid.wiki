@@ -2,6 +2,16 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.1.4====
+ * Add spanish translation
+ * Fix some NPEs
+ * fix download button for picture only mms
+====v0.1.2====
+ * Fix some bugs
+====v0.1.1====
+ * Fix zombiemessages
+ * mark thread as read on exit
+ * fix some minor bugs 
 ====v0.1====
  * Fix contact names (issue #199)
  * fix missing threads (issue #200)
