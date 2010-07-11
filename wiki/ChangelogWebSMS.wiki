@@ -3,6 +3,16 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.1.8====
+ * Fix noads for donators
+====v3.1.7====
+ * Spanish translation
+====v3.1.6====
+ * Add signature
+ * minor changes to API
+====v3.1.5====
+ * Fix some bugs
+ * inner changes
 ====v3.1.4====
  * Hotfix switching subconnectors
  * hotfix selecting contact (issue #222)
