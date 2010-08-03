@@ -51,4 +51,15 @@ Just set the basic capabilities, features and settings in updateSpec() and initS
 
 Get the ConnectorSpec reference with this.getSpec(context) as mentioned above.
 
+==The connector/websms fails building!==
+Please make sure:
+1) you cloned the websms-api project from github.com too
+2) you have the latest adt plugin installed (Help -> Check for Updates)
+3) you have the latest android sdk installed ("android update sdk")
+4) you can see the linked library project when clicking on projeckt right -> properties -> android (lower part of that screen)
+
+There is an eclipse bug preventing the adt to link projects with "-" in it's name.
+That's why the eclipse project with path websms-api is named websmsApi.
+
+
 See [DeveloperHelp] for more details.
