@@ -4,7 +4,7 @@
 =Changelog WebSMS=
 ==WebSMS 3.x==
 ====v3.1.9====
- * Allow install on sd card
+ * Allow install on sd card (issue #285)
 ====v3.1.8====
  * Fix noads for donators
 ====v3.1.7====
