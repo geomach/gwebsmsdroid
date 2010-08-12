@@ -61,5 +61,12 @@ Please make sure:
 There is an eclipse bug preventing the adt to link projects with "-" in it's name.
 That's why the eclipse project with path websms-api is named websmsApi.
 
+===Workaround on MAC===
+Just re-verified this on my Mac. Eclipse does not automagically add a linked resource under OS X, I have no idea why.
+
+Workaround is the described
+Prefs -> General -> Workspace -> Linked Resources -> Add -> _android_websmsAPI -> ...
+
+
 
 See [DeveloperHelp] for more details.
