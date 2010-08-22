@@ -2,6 +2,12 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.2====
+ * Fix NPE for unavailable conversations
+ * let unread messages unread on conversation close
+ * switch back to internal install due to problems with app/widget
+ * fix scrolling messages when switch orientation
+ * allow to hide sender/text from notification
 ====v0.1.6====
  * Fix FC with spamfilter (issue #283)
  * show photo in answer button
