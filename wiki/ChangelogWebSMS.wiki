@@ -3,6 +3,12 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.1.11====
+ * Readd emoticons+return button (issue #304)
+ * fix some more FCs (issue #306)
+====v3.1.10====
+ * Fix some FCs
+ * input emoticons via softkeyboard
 ====v3.1.9====
  * Allow install on sd card (issue #285)
 ====v3.1.8====
