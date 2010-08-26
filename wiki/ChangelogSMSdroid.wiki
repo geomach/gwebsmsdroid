@@ -2,6 +2,10 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.2.2====
+ * Fix hidden conversations with one message
+====v0.2.1====
+ * Fix some FCs, add QuickContact to contact's picture
 ====v0.2====
  * Fix NPE for unavailable conversations
  * let unread messages unread on conversation close (issue #277)
