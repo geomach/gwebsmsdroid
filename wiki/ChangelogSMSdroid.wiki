@@ -2,6 +2,9 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.2.3====
+ * Fix some FCs
+ * fix for LauncherPRO
 ====v0.2.2====
  * Fix hidden conversations with one message
 ====v0.2.1====
