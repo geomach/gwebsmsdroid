@@ -3,6 +3,10 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.1.12====
+ * Fix some FCs
+ * hide background text (issue #242)
+ * hide title bar
 ====v3.1.11====
  * Readd emoticons+return button (issue #304)
  * fix some more FCs (issue #306)
