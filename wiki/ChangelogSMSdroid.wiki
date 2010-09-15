@@ -3,7 +3,7 @@
 
 =Changelog SMSdroid=
 ====v0.2.3.1====
- * fix for LauncherPRO
+ * fix for LauncherPRO (issue #318)
 ====v0.2.3====
  * Fix some FCs
 ====v0.2.2====
