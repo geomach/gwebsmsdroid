@@ -1,0 +1,74 @@
+#labels FAQ,Phase-Support
+In the sandbox mode you get 10 SMS/day for free!
+
+= About Developer Garden =
+
+The Developer Garden is Deutsche Telekom's developer community.
+
+Deutsche Telekom is opening its interfaces, systematically pursuing its goal of open development. The Developer Garden Services allow developers to incorporate telecommunications services such as telephony and text messaging in their applications.
+
+The Developer Garden Services enable users to use the following functions from their own applications:
+
+Voice Call:
+Make phone calls between two subscribers in the mobile and fixed networks
+Send SMS:
+Send text messages to the mobile and fixed networks
+Conference Call:
+Plan and control conference calls in the mobile and fixed networks with up to 15 participants
+IP Location:
+Geographical location of IP addresses
+
+
+The Developer Garden APIs can be addressed via REST and SOAP. SDKs are available for standard programming languages along with comprehensive documentation. Developers receive personal support with any questions or problems they have via e-mail or Skype and can exchange experiences with other community members in the forum..
+
+
+= Setup Account =
+
+Steps to setup your Account:
+  * Download and install the Connector.
+  * Register on www.developergarden.com.
+  * Login on www.developergarden.com.
+  * Submit the SLA.
+  * Click "My Garden"-> "Services", activate the service "Send SMS" and click SAVE.
+
+= Charge Account =
+  * In order to set your number as the "sender number" you have to charge your account.
+  * Login on www.developergarden.com.
+  * Click "My Garden"-> "Account", click on "Top up account" and follow the steps.
+  * It is possible to pay by: Credit Card, ClickandBuy, PayPal and Cell Phone.
+  * The Developergarden Connector is only able to charge the main account (hauptkonto)!
+
+= Setup Connector =
+  * Enable the Developergarden-Connector.
+  * Enter username.
+  * Enter password
+  * Select the Environment: Production(160 characters), Sandbox(130 characters) 
+  * In the sandbox mode you get 10 SMS/day for free!
+  * Validate your sender number
+
+= Validation of the sender number =
+  * You need to charge your account first!
+  * This only works for German numbers.
+  * Enter the settings of the Developergarden Connector.
+  * Click on the last item.
+  * Click on "add Number" and enter your phonenumber (eg. "+49171...","0171...") and click "Ok".
+  * It works for the most German Provider.
+  * A key will be send to your number via SMS.
+  * Enter this key and click "Ok".
+  * The number should be listed.
+  * You can validate multiple numbers.
+  * Click on the Phone number in the list.
+  * Select "Set to Custom sender"
+  * If you want to delete the validation of a Phone number select "delete"
+
+You can change the "sender" any time in the WebSMS-App. Click on "Extras" and select "Custom Sender". Here are only characters allowed. No Phone numbers!
+
+Flash SMS will show the SMS directly on the screen.
+
+If you have problems feel free to ask.
+
+Christian Kierdorf
+
+  
+
+
