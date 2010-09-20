@@ -1,4 +1,6 @@
-#labels FAQ,Phase-Support
+#labels FAQ,Phase-Support,Featured
+#How to set up the Developergarden Connector.
+
 In the sandbox mode you get 10 SMS/day for free!
 
 = About Developer Garden =
@@ -70,5 +72,3 @@ If you have problems feel free to ask.
 Christian Kierdorf
 
   
-
-
