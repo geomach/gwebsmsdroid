@@ -11,14 +11,10 @@ Deutsche Telekom is opening its interfaces, systematically pursuing its goal of 
 
 The Developer Garden Services enable users to use the following functions from their own applications:
 
-Voice Call:
-Make phone calls between two subscribers in the mobile and fixed networks
-Send SMS:
-Send text messages to the mobile and fixed networks
-Conference Call:
-Plan and control conference calls in the mobile and fixed networks with up to 15 participants
-IP Location:
-Geographical location of IP addresses
+  * Voice Call: Make phone calls between two subscribers in the mobile and fixed networks
+  * Send SMS: Send text messages to the mobile and fixed networks
+  * Conference Call: Plan and control conference calls in the mobile and fixed networks with up to 15 participants
+  * IP Location: Geographical location of IP addresses
 
 
 The Developer Garden APIs can be addressed via REST and SOAP. SDKs are available for standard programming languages along with comprehensive documentation. Developers receive personal support with any questions or problems they have via e-mail or Skype and can exchange experiences with other community members in the forum..
@@ -57,7 +53,7 @@ Steps to setup your Account:
   * It works for the most German Provider.
   * A key will be send to your number via SMS.
   * Enter this key and click "Ok".
-  * The number should be listed.
+  * The phonenumber should be listed.
   * You can validate multiple numbers.
   * Click on the Phone number in the list.
   * Select "Set to Custom sender"
