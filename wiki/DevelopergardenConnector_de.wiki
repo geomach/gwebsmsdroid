@@ -34,7 +34,7 @@ Schritte zum Einrichten Ihres Kontos:
     * Zur Einrichtung Ihrer Nummer als "Absender-Nummer" müssen Sie Ihre Konto aufladen.
     * Login auf www.developergarden.com.
     * Klicken Sie auf "Mein Garden" -> "Konto", klicken Sie auf "Konto aufladen" und folgen den Schritten.
-    * Folgende Bezahldienste sind möglich: Kreditkarte, ClickandBuy, PayPal und Handy.
+    * Folgende Bezahldienste sind möglich: Kreditkarte, ClickandBuy , PayPal und Handy.
     * Die Developergarden Connector ist nur in der Lage das Hauptkonto zu belasten!
 
 =Setup Connector=
@@ -46,7 +46,7 @@ Schritte zum Einrichten Ihres Kontos:
     * In dem Sandbox-Modus erhalten Sie 10 SMS pro Tag kostenlos!
     * Schalten Sie Ihre Absender-Nummer frei.
 
-Die Validierung der Absender-Nummer ¶
+=Die Validierung der Absender-Nummer=
 
     * Sie müssen Ihr Konto erste Aufladung!
     * Dies funktioniert nur für deutsche Telefonnummern.
