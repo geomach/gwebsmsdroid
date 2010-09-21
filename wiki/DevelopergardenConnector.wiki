@@ -28,8 +28,8 @@ The Developer Garden APIs can be addressed via REST and SOAP. SDKs are available
 
 Steps to setup your Account:
   * Download and install the Connector.
-  * Register on www.developergarden.com.
-  * Login on www.developergarden.com.
+  * Register on www.developergarden.com [https://www.developergarden.com/register here].
+  * Login on www.developergarden.com [https://www.developergarden.com/login here].
   * Submit the SLA.
   * Click "My Garden"-> "Services", activate the service "Send SMS" and click SAVE.
 
