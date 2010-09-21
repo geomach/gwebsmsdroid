@@ -27,7 +27,7 @@ Schritte zum Einrichten Ihres Kontos:
     * Registrieren auf www.developergarden.com [https://www.developergarden.com/register here].
     * Login auf www.developergarden.com [https://www.developergarden.com/login here].
     * Die AGBs bestätigen.
-    * Klicken Sie auf "Mein Garten" -> "Dienste", aktivieren Sie den Dienst "SMS senden" und klicken auf Speichern.
+    * Klicken Sie auf "Mein Garten" -> "Dienste", aktivieren Sie den Dienst "Send SMS" und klicken auf Speichern.
 
 =Konto aufladen=
 
