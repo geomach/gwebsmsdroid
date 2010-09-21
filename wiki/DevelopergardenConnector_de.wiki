@@ -60,7 +60,7 @@ Schritte zum Einrichten Ihres Kontos:
     * Sie können mehrere Nummern freischalten.
     * Klicken Sie auf die Telefonnummer in der Liste.
     * Wählen Sie "Als Absender setzen"
-    * Wenn Sie auf die Validierung der Rufnummer löschen möchten, wählen Sie "Validierung löschen"
+    * Wenn Sie die Validierung der Rufnummer löschen möchten, wählen Sie "Validierung löschen"
 
 Sie können den "Absender" zu jeder Zeit in der WebSMS-App. Klicken Sie auf "Extras" und wählen Sie "Anderer Absender". Hier sind nur Zeichen erlaubt. Keine Telefonnummern!
 
