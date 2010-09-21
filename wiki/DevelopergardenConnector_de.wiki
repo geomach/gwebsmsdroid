@@ -64,7 +64,7 @@ Schritte zum Einrichten Ihres Kontos:
 
 Sie können den "Absender" zu jeder Zeit in der WebSMS-App. Klicken Sie auf "Extras" und wählen Sie "Anderer Absender". Hier sind nur Zeichen erlaubt. Keine Telefonnummern!
 
-Bei Flash SMS wird die SMS direkt auf dem Bildschirm zeigen.
+Bei Flash SMS wird die SMS direkt auf dem Bildschirm angezeigt.
 
 Wenn Sie Probleme haben fragen Sie bitte.
 
