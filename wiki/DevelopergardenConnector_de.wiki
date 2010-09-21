@@ -19,7 +19,7 @@ Die Developer Garden Services ermöglichen es, aus der eigenen Applikation herau
 
 Die Developer Garden APIs können per REST und SOAP angesprochen werden. Es  stehen SDKs für gängige Programmiersprachen sowie eine umfangreiche Dokumentation zur Verfügung. Bei Fragen und Problemen erhalten Entwickler persönlichen Support via E-Mail oder Skype und können sich mit anderen Community-Mitgliedern im Forum austauschen.
 
-=Setup Konto=
+=Konto einrichten=
 
 Schritte zum Einrichten Ihres Kontos:
 
