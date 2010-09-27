@@ -49,7 +49,7 @@ Schritte zum Einrichten Ihres Kontos:
 =Die Validierung der Absender-Nummer=
 
     * Sie müssen Ihr Konto erste Aufladung!
-    * Dies funktioniert nur für deutsche Telefonnummern.
+    * Dies funktioniert für die meisten internationalen Telefonnummern.
     * Die Einstellungen des Developergarden Connector anklicken.
     * Klicken Sie auf "Nummer freischalten/setzen".
     * Klicken Sie auf "+ Nummer" und geben Sie Ihre Telefonnummer (zB +49171.., 0171..) und klicken Sie auf"OK".
