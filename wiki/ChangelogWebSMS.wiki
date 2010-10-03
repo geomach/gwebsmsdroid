@@ -3,6 +3,9 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.1.13====
+ * Add hungarian translation
+ * set custom locale
 ====v3.1.12====
  * Fix some FCs
  * hide background text (issue #242)
