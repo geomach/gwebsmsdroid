@@ -71,8 +71,35 @@ Wenn Sie Probleme haben fragen Sie bitte.
 Christian Kierdorf
 
 
- 
 
- 
+=Versenden von SMS über Send SMS im In- und Ausland (10 SMS pro Tag sind kostenlos)=
+
+Der Preis für das Versenden von SMS bzw. Flash SMS über Send SMS ist abhängig von der Nummer des Empfängers. Es wird nach Zielnummern innerhalb Deutschlands und dem Ausland unterschieden. Zusätzlich wird das Ausland in die folgenden vier Tarifbereiche aufgeteilt.
+
+Tarifbereich 1
+
+Afghanistan, Andorra, Angola, Anguilla, Antigua und Barbuda, Argentinien, Armenien, Aruba, Aserbaidschan, Bahrain, Bangladesch, Barbados, Weißrussland, Belize, Benin, Bermuda, Bhutan, Bolivien, Bosnien und Herzegowina, Botsuana, Brasilien, Brunei Darussalam, Bulgarien, Burkina Faso, Burundi, Kambodscha, Kamerun, Kanada, Kap Verde, Kaimaninseln, Zentralafrikanische Republik, Tschad, Chile, Kolumbien, Komoren, Kongo (Demokratische Republik), Kongo (Republik), Costa Rica, Kuba, Zypern, Dschibuti, Dominica, Dominikanische Republik, Ecuador, Ägypten, El Salvador, Äquatorialguinea, Äthiopien, Färöer, Fidschi, Französisch-Polynesien, Gabun, Gambia, Georgien, Ghana, Gibraltar, Guadeloupe, Grönland, Guatemala, Guinea, Guyana, Honduras, Iran (Islamische Republik), Irak, Israel, Jamaika, Japan, Jordanien, Kenia, Korea (Republik), Kuwait, Kirgisistan, Laos (Demokratische Volksrepublik), Lettland, Libyen, Liechtenstein, Litauen, Luxemburg, Macau, Madagaskar, Malaysia, Malediven, Mali, Malta, Martinique, Mauretanien, Mayotte, Mexiko, Monaco, Mongolei, Namibia, Nepal, Niederländische Antillen, Nicaragua, Niger, Nigeria, Norwegen, Oman, Pakistan, Palestina, Panama, Paraguay, Peru, Katar, Réunion, Russische Föderation, Ruanda, Samoa, Saudi-Arabien, Senegal, Seychellen, Sierra Leone, Somalia, Korea (Demokratische Volksrepublik), Sri Lanka, St. Kitts und Nevis, St. Lucia, St. Vincent und die Grenadinen, Sudan, Suriname, Swasiland, Syrien (Arabische Republik), China (Taiwan), Tadschikistan, Tansania (Vereinigte Republik), Togo, Trinidad und Tobago, Turkmenistan, Turks- und Caicosinseln, Uganda, Ukraine, Uruguay, Usbekistan, Venezuela, Vereinigten Staaten von Amerika, Vietnam, Jemen, Sambia, Simbabwe.
+
+Tarifbereich 2
+
+Albanien, Algerien, Australien, Elfenbeinküste, Kroatien, Tschechische Republik, Dänemark, Estland, Finnland, Griechenland, Grena-da, Guernsey (UK), Ungarn, Indien, Indonesien, Irland, Insel Man, Italien, Jersey (UK), Kasachstan, Libanon, Mazedonien (ehemalige jugoslawische Republik), Malawi, Mauritius, Moldau (Republik), Marokko, Mosambik, Neukaledonien, Neuseeland, Philippinen, Polen, Portugal, Rumänien, Serbien, Montenegro, Singapur, Slowakei, Slowenien, Südafrika, Schweden, Schweiz, Thailand, Tunesien, Vereinigte Arabische Emirate, Großbritannien.
+
+Tarifbereich 3
+
+Belgien, Frankreich, Hongkong (Sonderverwaltungsregion), Island, Niederlande, Österreich, San Marino, Spanien, Türkei
+
+Tarifbereich 4
+
+China, Vatikanstadt
+
+=Versenden von SMS=
+ Preise mit USt EUR
+
+  * innerhalb Deutschlands, je SMS und Rufnummer............................................0,099
+  * in Länder des Tarifsbereichs 1, je SMS und Rufnummer..................................0,105
+  * in Länder des Tarifsbereichs 2, je SMS und Rufnummer..................................0,127
+  * in Länder des Tarifsbereichs 3, je SMS und Rufnummer..................................0,165
+  * in Länder des Tarifsbereichs 4, je SMS und Rufnummer..................................0,202
+
 
  
