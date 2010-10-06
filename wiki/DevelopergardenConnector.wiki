@@ -67,4 +67,36 @@ If you have problems feel free to ask.
 
 Christian Kierdorf
 
+
+
+=Using Send SMS to send SMSs in Germany and internationally (10 SMS per day free)=
+
+The price for using Send SMS to send an SMS or flash SMS depends on the recipient's phone number. We distinguish between destination numbers within Germany and international phone numbers. International calls are classified according to the four tariff zones below.
+
+Tariff zone 1
+
+Afghanistan, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Azerbaijan, Bahrain, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Cayman Islands, Central African Republic, Chad, Chile, Columbia, Comoros, Congo (Democratic Republic), Congo (Republic), Costa Rica, Cuba, Cyprus, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Ethiopia, Faroe Islands, Fiji, French Polynesia, Gabon, Gambia, Georgia, Ghana, Gibraltar, Guadeloupe, Greenland, Guatemala, Guinea, Guyana, Honduras, Iran (Islamic Republic), Iraq, Israel, Jamaica, Japan, Jordan, Kenya, Korea (Republic), Kuwait, Kyrgyzstan, Laos (People's Democratic Republic), Latvia, Libya, Liechtenstein, Lithuania, Luxembourg, Macau, Madagascar, Malaysia, Maldives, Mali, Malta, Martinique, Mauritania, Mayotte, Mexico, Monaco, Mongolia, Namibia, Nepal, Netherlands Antilles, Nicaragua, Niger, Nigeria, Norway, Oman, Pakistan, Palestine, Panama, Paraguay, Peru, Qatar, Réunion, Russian Federation, Rwanda, Samoa, Saudi Arabia, Senegal, Seychelles, Sierra Leone, Somalia, Korea (Democratic People's Republic), Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent und the Grenadines, Sudan, Suriname, Swaziland, Syria (Arab Republic), China (Taiwan), Tajikistan, Tanzania (United Republic), Togo, Trinidad and Tobago, Turkmenistan, Turks and Caicos Islands, Uganda, Ukraine, Uruguay, Uzbekistan, Venezuela, United States of America, Vietnam, Yemen, Zambia, Zimbabwe.
+
+Tariff zone 2
+
+Albania, Algeria, Australia, Ivory Coast, Croatia, Czech Republic, Denmark, Estonia, Finland, Greece, Grenada, Guernsey (UK), Hungary, India, Indonesia, Ireland, Island of Man, Italy, Jersey (UK), Kazakhstan, Lebanon, Macedonia (former Yugoslavian Republic), Malawi, Mauritius, Moldova (Republic), Morocco, Mozambique, New Caledonia, New Zealand, Philippines, Poland, Portugal, Ro-mania, Serbia, Montenegro, Singapore, Slovakia, Slovenia, South Africa, Sweden, Switzerland, Thailand, Tunisia, United Arab Emirates, United Kingdom.
+
+Tariff zone 3
+
+Belgium, France, Hong Kong (Special Administrative Region). Iceland, Netherlands, Austria, San Marino, Spain, Turkey
+
+Tariff zone 4
+
+China, Vatican City
+
+=Sending SMSs=
+ Price incl. VAT EUR
+
+  * within Germany, per SMS and phone number............................................0,099
+  * In tariff zone 1 countries, per SMS and phone number..................................0,105
+  * In tariff zone 2 countries, per SMS and phone number..................................0,127
+  * In tariff zone 3 countries, per SMS and phone number..................................0,165
+  * In tariff zone 4 countries, per SMS and phone number..................................0,202
+
+
   
