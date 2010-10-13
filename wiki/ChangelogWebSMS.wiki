@@ -3,8 +3,11 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.2====
+ * Integrate with Call Meter 3G
+ * Add Russian translation
 ====v3.1.13====
- * Add hungarian translation
+ * Add Hungarian translation
  * set custom locale
 ====v3.1.12====
  * Fix some FCs
