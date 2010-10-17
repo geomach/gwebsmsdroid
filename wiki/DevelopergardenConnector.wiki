@@ -46,7 +46,6 @@ Steps to setup your Account:
 
 = Validation of the sender number =
   * You need to charge your account first!
-  * This only works for German numbers.
   * Enter the settings of the Developergarden Connector.
   * Click on the last item.
   * Click on "add Number" and enter your phonenumber (eg. "+49171...","0171...") and click "Ok".
