@@ -1,6 +1,8 @@
 #summary How to set up the developergarden connector.
 #labels FAQ,Phase-Support,Featured
 
+Deutsch: [http://code.google.com/p/websmsdroid/wiki/DevelopergardenConnector_de]
+
 In the sandbox mode you get 10 SMS/day for free!
 
 = About Developer Garden =
