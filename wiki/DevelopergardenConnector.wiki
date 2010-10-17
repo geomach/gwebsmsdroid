@@ -48,7 +48,7 @@ Steps to setup your Account:
   * You need to charge your account first!
   * Enter the settings of the Developergarden Connector.
   * Click on the last item.
-  * Click on "add Number" and enter your phonenumber (eg. "+49171...","0171...") and click "Ok". 
+  * Click on "add Number" and enter your phonenumber (eg. "+49171...") and click "Ok". 
   * Don't forget your international prefix code. More Info [http://countrycode.org/]
   * It works for the most German Provider.
   * A key will be send to your number via SMS.
