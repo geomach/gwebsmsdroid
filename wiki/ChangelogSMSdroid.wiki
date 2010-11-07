@@ -2,6 +2,10 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.2.4
+ * Add Russian translation
+ * set custom locale
+ * fix scroll to bottom
 ====v0.2.3.2====
  * an other fix for LauncherPRO (issue #318)
  * start composer as new task
