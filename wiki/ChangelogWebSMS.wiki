@@ -3,6 +3,8 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.2.1====
+ * Integrate with Samsung's "Write and go"
 ====v3.2====
  * Integrate with Call Meter 3G (issue #205)
  * Add Russian translation
