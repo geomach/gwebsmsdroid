@@ -2,7 +2,7 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
-====v0.2.4
+====v0.2.4====
  * Add Russian translation
  * set custom locale
  * fix scroll to bottom
