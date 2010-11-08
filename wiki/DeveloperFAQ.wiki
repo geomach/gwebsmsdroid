@@ -1,35 +1,29 @@
 #summary FAQ for developers
 #labels FAQ
 
-== I cloned the git repository, but the package de.ub0r.android.websms.connector.common is missing. ==
+==The connector/websms fails building!==
+Please make sure:
+1) you cloned the websms-api project from github.com too: http://github.com/felixb/websms-api
+2) you have the latest adt plugin installed (Help -> Check for Updates)
+3) you have the latest android sdk installed ("android update sdk")
+4) you can see the linked library project when clicking on projeckt right -> properties -> android (lower part of that screen)
 
-that's right. on linux you may use the buildjar.sh to build it. on any other platform you may copy the .jar from the example connector.
+There is an eclipse bug preventing the adt to link projects with "-" in it's name.
+That's why the eclipse project with path websms-api is named websmsApi.
 
-i just don't like bin files in scm. that's the reason.
+===Workaround on MAC===
+Just re-verified this on my Mac. Eclipse does not automagically add a linked resource under OS X, I have no idea why.
 
-btw: there are many files symlinked, which have to be replaced on windoze machines too.
-
-== Why are there eclipse projects within the main project? ==
-
-This is grown historically.
-Until WebSMS-2.x all connectors were running in the main context.
-As i moved them out, I needed some space to create a project for each of them.
-That's the /connectors space.
-Just ignore that path in the main WebSMS project.
-
-If you do not want to use eclipse, there are some build.xml files for every project.
-Run ant to build the apk files.
-All my deployment scripts are doing that too.
+Workaround is the described
+Prefs -> General -> Workspace -> Linked Resources -> Add -> _android_websmsAPI -> ...
 
 == How should I install a Connector on the emulator/device? ==
-
 When it comes to deploying the connectors to the emulator,
 I just run the adb install -r <path/to/connector.apk> from shell.
 I don't know, how to install it from eclipse directly, because there is no activity (in fact there is the shared info screen) to run.
 If someone knows a better way, please contact me.
 
 == How do i get the running ConnectorSpec? ==
-
 Just use:
 {{{
 ConnectorSpec c = this.getSpec(context);
@@ -44,28 +38,11 @@ Log.d(TAG, "balance: " + c.getBalance());
 }}}
 
 == In updateSpec() I get a ConnectorSpec object and I assumed that this is where I can update the balance since there is an setBalance method. As I do not have a ConnectorSpec object in doUpdate, I have to store the reference when updateSpec() initSpec() gets called and reuse it in doUpdate(). That might be the problem, but I haven't found another way so far. Is that the right method? ==
-
 Wrong.
 Please do not do any IO in updateSpec() or initSpec().
 Just set the basic capabilities, features and settings in updateSpec() and initSpec().
 
 Get the ConnectorSpec reference with this.getSpec(context) as mentioned above.
-
-==The connector/websms fails building!==
-Please make sure:
-1) you cloned the websms-api project from github.com too
-2) you have the latest adt plugin installed (Help -> Check for Updates)
-3) you have the latest android sdk installed ("android update sdk")
-4) you can see the linked library project when clicking on projeckt right -> properties -> android (lower part of that screen)
-
-There is an eclipse bug preventing the adt to link projects with "-" in it's name.
-That's why the eclipse project with path websms-api is named websmsApi.
-
-===Workaround on MAC===
-Just re-verified this on my Mac. Eclipse does not automagically add a linked resource under OS X, I have no idea why.
-
-Workaround is the described
-Prefs -> General -> Workspace -> Linked Resources -> Add -> _android_websmsAPI -> ...
 
 
 

@@ -5,29 +5,29 @@
 
 WebSMS is built modular. This makes it very easy to implement new Connectors.
 
-For WebSMS-2.`*` all Connectors are shipped within the WebSMS.apk file downloaded from here or from android market.
-
-WebSMS-3 is a overall redesign of Connector-handling. It splits all Connectors, but ConnectorSMS, from WebSMS.apk. Each Connector is installed separately.
-This makes it even more easy to build your own Connector and even deploy it on your own!
+Each Connector is installed separately.
+This makes it very easy to build your own Connector and even deploy it on your own!
 
 = Details =
 
 To build your own Connector you will have to think about:
 
  # Where to host the code:
-  * Should the code be hold by the [http://github.com/felixb/websms websms git repository]? You may even use this Google Codes site too.
-  * Or will you host it on your own? I'd prefer to integrate it in WebSMS-repo. But there is no problem if you want it in your hands.
+  * Think about adding your own connector to http://github.com or any other git hosting site. This makes it very easy for me to look on your code and add some patches.
+  * You may even use this Google Codes site too.
  # Who should publish it to market:
   * You may publish it on your own.
-  * I may publish the Connector for you.
+  * I may publish the Connector for you. (First is prefered, for letting me deploy it, i need you to host your code on http://github.com)
 
 = API =
 
 Well, as you decided where to implement your Connector, you will need the public API of WebSMS's Connector framework.
 
-There is a javadoc run hosted [http://www.ub0r.de/android/websms-api/ here]. This build from the whole WebSMS project tree.
+There is a javadoc run hosted [http://www.ub0r.de/android/websms-api/ here].
 
-You may download the ConnectorExample from the git repo, or from download section. Or if you like it hardcore, you can even download the API as single jar-file.
+For examples, just check out the code on any of the connectors hosted on [http://github.com/felixb github].
+Just pick the one, that fits you best.
+Some are using XML, some are using custom HTTP methods, some are using very simple HTTP APIs.
 
 Basically you just need to inherit the [http://www.ub0r.de/android/websms-api//de/ub0r/android/websms/connector/common/Connector.html Connector] or even simpler the [http://www.ub0r.de/android/websms-api//de/ub0r/android/websms/connector/common/BasicConnector.html BasicConnector] class. But see the example or any other Connector for more details.
 
