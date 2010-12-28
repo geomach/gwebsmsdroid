@@ -3,6 +3,12 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.4====
+ * show send later date in background (issue #150)
+ * add signature for length calculation (issue #402)
+ * set standard connector (issue #253)
+====v3.3.1====
+ * Fix sending TXT with \'
 ====v3.3====
  * Vibrate on send (issue #378)
  * save draft (issue #221)
