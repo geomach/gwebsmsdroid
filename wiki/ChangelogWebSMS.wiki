@@ -7,6 +7,7 @@
  * show send later date in background (issue #150)
  * add signature for length calculation (issue #402)
  * set standard connector (issue #253)
+ * prepare for auto send with SMSdroid (issue #381)
 ====v3.3.1====
  * Fix sending TXT with \'
 ====v3.3====
