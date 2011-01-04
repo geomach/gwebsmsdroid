@@ -2,6 +2,17 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.5=====
+ * Answer directly in SMSdroid (issue 381)
+ * fix sticky unread messages (issue #320)
+ * save mms attachments to sd card (issue #334)
+ * fix forwarding with stock messaging app (issue #327)
+ * show full date (issue #248)
+ * import vcards (issue #132)
+ * speed up db queries
+ * call from conversation/message
+ * new titlebars
+ * fix some more (critical) bugs (issue #356, issue #200, issue #351)
 ====v0.2.4====
  * Add Russian translation
  * set custom locale
