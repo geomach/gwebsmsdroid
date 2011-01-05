@@ -2,6 +2,11 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.5.1====
+ * Show target app for sending on send button
+ * allow to switch back behavior for answering (issue #424)
+ * fix sort (issue #423, issue #425)
+ * fix MessageList (issue #425)
 ====v0.5=====
  * Answer directly in SMSdroid (issue 381)
  * fix sticky unread messages (issue #320)
