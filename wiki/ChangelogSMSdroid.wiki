@@ -2,6 +2,13 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.5.2====
+ * Hide send button (issue #431)
+ * show presence
+ * fix contact names/photos (issue #233, issue #247, issue #268)
+ * fix scrolling down in MessageList
+ * fix photo in MessageList
+ * minor changes
 ====v0.5.1====
  * Show target app for sending on send button
  * allow to switch back behavior for answering (issue #424)
