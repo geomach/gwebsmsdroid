@@ -4,8 +4,8 @@
 =Changelog SMSdroid=
 ====v0.5.3====
  * Fix remove numbers from spamDB
- * readd widget's title and allow to disable it
- * minor changes
+ * readd widget's title and allow to disable it (issue #428)
+ * minor changes (issue #434)
 ====v0.5.2====
  * Hide send button (issue #431)
  * show presence
