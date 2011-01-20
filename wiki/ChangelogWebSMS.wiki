@@ -3,6 +3,12 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.5====
+ * send vcards (issue #132)
+ * allow to disable autosend
+ * show connector chooser on autosend
+ * light theme
+ * new layout (issue #398)
 ====v3.4====
  * show send later date in background (issue #150)
  * add signature for length calculation (issue #402)
