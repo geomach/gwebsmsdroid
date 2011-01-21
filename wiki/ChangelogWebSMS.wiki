@@ -3,6 +3,10 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.5.1====
+ * integrate with widgetsoid
+ * fix NPE on hideTitleBar
+ * fix hidden buttonbar (issue #445)
 ====v3.5====
  * send vcards (issue #132)
  * allow to disable autosend
