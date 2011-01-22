@@ -2,6 +2,8 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.5.4====
+ * fix for android 1.5
 ====v0.5.3====
  * Fix remove numbers from spamDB
  * readd widget's title and allow to disable it (issue #428)
