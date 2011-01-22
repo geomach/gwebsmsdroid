@@ -3,6 +3,8 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.5.2====
+ * fix for android 1.5
 ====v3.5.1====
  * integrate with widgetsoid
  * fix NPE on hideTitleBar
