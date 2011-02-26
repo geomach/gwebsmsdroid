@@ -3,6 +3,11 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.6====
+ * trim text before sending
+ * clear only last recipient with button (long press for all) (issue #468)
+ * hide paste button (issue #447)
+ * fix some minor issues (issue #461)
 ====v3.5.3====
  * mod layout
  * update translations
