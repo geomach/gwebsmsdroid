@@ -4,7 +4,7 @@
 =Changelog SMSdroid=
 ====v0.6====
  * fix notification timestamp
- * new bubbles and notification icons by daniel kalinic, set text color (issue #262, #342)
+ * new bubbles and notification icons by daniel kalinic, set text color (issue #262, issue #342)
  * reply from message menu (issue #470)
 ====v0.5.4====
  * fix for android 1.5
