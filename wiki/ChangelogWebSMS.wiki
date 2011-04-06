@@ -3,6 +3,12 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.6.1====
+ * allow to not save sent messages (issue #476)
+ * hide extras button
+ * fix hide send/cancel button (issue #485)
+ * handle status report in sms connector (issue #421)
+ * save text on cancel (issue #420)
 ====v3.6====
  * trim text before sending
  * clear only last recipient with button (long press for all) (issue #468)
