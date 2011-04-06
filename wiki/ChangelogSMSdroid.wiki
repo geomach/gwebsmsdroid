@@ -4,9 +4,9 @@
 =Changelog SMSdroid=
 ====v0.7====
  * show dialer instead of calling directly (and reduce permissions)
- * send SMS directly
- * restore last sent message
- * add gingerbreadish notification icon (by android and sebastian huth)
+ * send SMS directly (issue #474)
+ * restore last sent message (issue #467)
+ * add gingerbreadish notification icon (by android and sebastian huth) (issue #471)
  * add french translation (by ismael a.)
 ====v0.6====
  * fix notification timestamp
