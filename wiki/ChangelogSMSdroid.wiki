@@ -2,6 +2,8 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.7.1====
+ * fix NPE in sender
 ====v0.7====
  * show dialer instead of calling directly (and reduce permissions)
  * send SMS directly (issue #474)
