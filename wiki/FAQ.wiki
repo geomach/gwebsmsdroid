@@ -43,5 +43,30 @@ Please use google. I am pretty sure, google knows the connectors website.
 You should enter your international country code here (E.g. +1 for US, +49 for Germany).
 See the full list @[http://en.wikipedia.org/wiki/Country_calling_code wikipedia].
 
+==I'm living abroad, what prefix should i use?==
+
+Please set the prefix of YOUR telephone number used for sender id and login.
+The prefix is just needed to strip it from the international formated number to login to some webservice using the national formated number.
+
+==How can I send messages directly from the messaging app?==
+
+It is not possible with the stock messaging app.
+However, try SMSdroid, which is build for this.
+
+==How can I be sure and check, that the SMS is not sent via GSM and is not billed by my provider?==
+
+Just turn of the "SMS" Connector. Any other connector will use a webservice to send the messages.
+
+==What have I to put in the field "Default recipient"?==
+
+If you do not want to start WebSMS with a fixed recipient, you should leave it blank.
+
+==I've send the sms to the recipient, but the recipient don't receive my sms..why.?==
+
+You should not use a connector sending messages without YOUR sender id.
+Some connectors do support sending with and without sender id.
+Without sender id might be cheaper. But a direct reply is not possible.
+
 ==I have issues with/feature requests for any of the apps!==
+
 Please use the [http://code.google.com/p/websmsdroid/issues/list issues] to report issues or feature requests. Comments on this wiki page won't get read!
