@@ -42,3 +42,6 @@ Please use google. I am pretty sure, google knows the connectors website.
 
 You should enter your international country code here (E.g. +1 for US, +49 for Germany).
 See the full list @[http://en.wikipedia.org/wiki/Country_calling_code wikipedia].
+
+==I have issues with/feature requests for any of the apps!==
+Please use the [http://code.google.com/p/websmsdroid/issues/list issues] to report issues or feature requests. Comments on this wiki page won't get read!
