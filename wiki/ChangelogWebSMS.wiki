@@ -8,6 +8,7 @@
  * share ad revenue with connector authors
  * gingerbreadish icons (issue #471)
  * alternative layout (issue #466)
+ * update translations
 ====v3.6.1====
  * allow to not save sent messages (issue #476)
  * hide extras button
