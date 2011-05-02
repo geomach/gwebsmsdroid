@@ -2,6 +2,12 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v0.7.2====
+ * decode NCR messages (thx to @herrlado)
+ * hide "restore last message" (issue #467)
+ * hide sender in chooser (issue #490)
+ * add regex to fix numbers before sending (issue #502)
+ * minor fixes (issue #493)
 ====v0.7.1====
  * fix NPE in sender
 ====v0.7====
