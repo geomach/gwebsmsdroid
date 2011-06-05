@@ -3,6 +3,8 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.7.2====
+ * update translations
 ====v3.7.1====
  * fix sending notification for "SMS" connector (issue #421)
  * add multi unit ids for connector provided ads
