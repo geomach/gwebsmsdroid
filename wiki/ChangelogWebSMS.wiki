@@ -3,6 +3,9 @@
 
 =Changelog WebSMS=
 ==WebSMS 3.x==
+====v3.7.4====
+ * fix FCs
+ * update translations
 ====v3.7.3====
  * fix moving connectors (issue #532)
  * set text size
