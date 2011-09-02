@@ -34,8 +34,8 @@ Schritte zum Einrichten Ihres Kontos:
 =Konto aufladen=
 
     * Zur Einrichtung Ihrer Nummer als "Absender-Nummer" müssen Sie Ihre Konto aufladen.
-    * Login auf www.developergarden.com.
-    * Klicken Sie auf "Mein Garden" -> "Konto", klicken Sie auf "Konto aufladen" und folgen den Schritten.
+    * Login auf [http://www.developercenter.telekom.com/developer-center/id_43970794/index www.developercenter.telekom.com]. 
+    * Klicken Sie auf "My Account" -> "Konto", klicken Sie auf "Konto aufladen" und folgen den Schritten.
     * Folgende Bezahldienste sind möglich: Kreditkarte, ClickandBuy , PayPal und Handy.
     * Die Developergarden Connector ist nur in der Lage das Hauptkonto zu belasten!
 
