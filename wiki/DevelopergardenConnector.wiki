@@ -33,8 +33,8 @@ Steps to setup your Account:
 
 = Charge Account =
   * In order to set your number as the "sender number" you have to charge your account.
-  * Login on www.developergarden.com.
-  * Click "My Garden"-> "Account", click on "Top up account" and follow the steps.
+  * Login on [http://www.developercenter.telekom.com/developer-center/id_44352276/index www.developercenter.telekom.com].
+  * Click "My Account"-> "Account", click on "Top up account" and follow the steps.
   * It is possible to pay by: Credit Card, ClickandBuy, PayPal and Cell Phone.
   * The Developergarden Connector is only able to charge the main account (hauptkonto)!
 
