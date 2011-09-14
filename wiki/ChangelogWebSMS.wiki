@@ -2,6 +2,15 @@
 #labels Featured,Changelog
 
 =Changelog WebSMS=
+==WebSMS 4.x==
+====v4.0====
+ * prepare for honeycomb devices (issue #578)
+ * ui redesign
+ * check message length for supported connectors
+ * read phone's telephone number/prefix
+ * fixes and improvements (issue #574)
+ * translation updates
+
 ==WebSMS 3.x==
 ====v3.7.4====
  * fix FCs
