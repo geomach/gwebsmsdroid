@@ -3,6 +3,8 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.0.1====
+ * fix FC
 ====v4.0====
  * prepare for honeycomb devices (issue #578)
  * ui redesign
