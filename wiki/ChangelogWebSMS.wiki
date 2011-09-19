@@ -3,6 +3,8 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.1====
+ * bring back send button (hide it in settings)
 ====v4.0.1====
  * fix FC
 ====v4.0====
