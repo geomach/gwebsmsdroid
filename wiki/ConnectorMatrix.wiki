@@ -8,5 +8,5 @@ Add your content here.
 
 = Details =
 
-|| *Service* || *Market Link* || *Operating since* || *Price* || *Extras* || * Stability* || *sender country* || *recipient country* || *utf8* ||
-|| [http://www.cherry-sms.com/?ref=ZXAQDHJW Cherry-SMS.com] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.cherrysms market link] || ? || 0,05€ w/ sender id; 0,025€ w/o sender id || - || top || no restriction known || no restriction known || no utf8 ||
+|| *Service* || *Connector* || *Operating since* || *Price* || *Extras* || * Stability* || *sender country* || *recipient country* || *utf8* ||
+|| [http://www.cherry-sms.com/?ref=ZXAQDHJW Cherry-SMS.com] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.cherrysms market link] (c) Felix Bechstein || ? || 0,05€ w/ sender id; 0,025€ w/o sender id || - || top || no restriction known || no restriction known || no utf8 ||
