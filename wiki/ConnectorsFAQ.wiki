@@ -1,6 +1,9 @@
 #summary FAQ on new Connectors
 #labels FAQ
 
+==What connector should I use?==
+Please see the [ConnectorMatrix].
+
 ==Is it possible to build a Connector for provider x?==
 
 If there is any way to send sms via web with your provider,
