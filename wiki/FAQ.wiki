@@ -30,6 +30,8 @@ Fishtext is specialized on international SMS and should work for most people.
 For backup purpose there is a SMS Connector shipped with the main app.
 It will send real SMS via your carrier which are billed as normal.
 
+You should read the [ConnectorMatrix] for more details.
+
 ==What is the password for sending a SMS?==
 
 It is the password you set on the Connectors website while registration.
