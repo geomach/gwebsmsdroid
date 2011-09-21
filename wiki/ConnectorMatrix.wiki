@@ -1,6 +1,35 @@
 #summary A list of known connectors
 #labels Featured
 
-|| *Service* || *Connector* || *Operating since* || *Price* || *Extras* || *Stability* || *sender country* || *recipient country* || *utf8* ||
-|| [http://gmx.net GMX] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.gmx market link] (c) Felix Bechstein || ? || 10sms free per month; 50sms for 4€/month || Send Later, Custom Sender || medium || germany(?) || no restrictions known || no utf8 ||
+|| *Service* || *Connector* || *Operating since* || *Cost* || *Extras* || *Stability* || *sender country* || *recipient country* || *utf8* ||
+|| [http://arcor.de] arcor || [https://market.android.com/details?id=org.herrlado.websms.connector.arcor market link] (c) Felix Bechstein, Lado Kumsiashvili ||
+|| [http://beetalk.net Beetalk] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.beetalk market link] (c) J.P. ||
+|| Betamax VoIP Reseller || [https://market.android.com/details?id=de.ub0r.android.websms.connector.betamax market link] (c) Jon Agüera ||
 || [http://www.cherry-sms.com/?ref=ZXAQDHJW Cherry-SMS.com] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.cherrysms market link] (c) Felix Bechstein || ? || 0,05€ w/ sender id; 0,025€ w/o sender id || - || top || no restrictions known || no restrictions known || no utf8 ||
+|| [http://www.developergarden.com t-com developer garden ] || [https://market.android.com/details?id=com.developergarden.android.connector market link] (c) Christian Kierdorf ||
+|| [http://discotel.de/ discotel ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.discotel market link] (c) Felix Bechstein ||
+|| [http://www.exetel.com.au// extetel] || [com.baxtern.android.websms.connector.exetel market link] (c) Nathaniel Baxter ||
+|| [http://fishtext.com/ fishtext] || [https://market.android.com/details?id=com.fairmichael.fintan.websms.connector.fishtext market link] (c) Felix Bechstein, Fintan Fairmichael ||
+|| [http://freenet.de/ freenet] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.freenet market link] (c) Felix Bechstein, Dirk Bliesener ||
+|| [http://gmx.net GMX] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.gmx market link] (c) Felix Bechstein || ? || 10sms free per month; 50sms for 4€/month || Send Later, Custom Sender || medium || germany(?) || no restrictions known || no utf8 ||
+|| [http://innosend.de/ innosend] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.innosend market link] (c) Felix Bechstein ||
+|| [http://magtifun.ge/ magtifun.ge ] || [https://market.android.com/details?id=org.herrlado.websms.connector.magtifunge market link] (c) Lado Kumsiashvili ||
+|| MeinBMW || [https://market.android.com/details?id=de.ub0r.android.websms.connector.meinbmw market link] (c) Silas Graffy, Felix Bechstein ||
+|| [http://www.my-cool-sms.com/en/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms/ My-Cool-SMS ] || [https://market.android.com/details?id=org.herrlado.websms.connector.mycoolsms market link] (c) Lado Kumsiashvili ||
+|| [http://myphone.ge] myphone.ge || [https://market.android.com/details?id=org.herrlado.websms.connector.myphone market link] (c) Lado Kumsiashvili ||
+|| [http://www.personal-voip.de/ pbxnetwork] || [https://market.android.com/details?id=com.websms.connector.pbxnetwork market link] (c) Lorenz Bauer, Felix Bechstein ||
+|| [http://o2.de/ o2.de] || [https://market.android.com/details?id=com.websms.connector.o2 market link] (c) Felix Bechstein, Lorenz Bauer ||
+|| [http://schoolnet.ch Schoolnet] || [https://market.android.com/details?id=com.rothconsulting.android.websms.connector.schoolnet market link] (c) Koni Roth ||
+|| [http://sipgate.com/ sipgate] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sipgate market link] (c) Felix Bechstein, Mirko Weber ||
+|| [http://sloono.de/ sloono] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sloono market link] (c) Felix Bechstein ||
+|| [http://sms.ge/ sms.ge ] || [https://market.android.com/details?id=org.herrlado.websms.connector.smsge market link] (c) Lado Kumsiashvili ||
+|| [http://sms77.de/ sms77 ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sms77 market link] (c) Felix Bechstein ||
+|| [http://smsjoker.de SMSJoker] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.smsjoker market link] (c) J.P. ||
+|| [http://smspilot.ru/ smspilot.ru ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.smspilotru market link] (c) Felix Bechstein ||
+|| [http://sunrise.ch Sunrise] || [https://market.android.com/details?id=com.rothconsulting.android.websms.connector.sunrise market link] (c) Koni Roth ||
+|| [http://werbelokal.de/ werbelokal.de ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.werbelokal market link] (c) Felix Bechstein ||
+|| [http://yallo.ch Yallo] || [https://market.android.com/details?id=com.rothconsulting.android.websms.connector.yallo market link] (c) Koni Roth ||
+
+
+
+
