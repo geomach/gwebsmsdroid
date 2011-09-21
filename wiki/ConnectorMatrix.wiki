@@ -8,7 +8,7 @@
 || [http://www.cherry-sms.com/?ref=ZXAQDHJW Cherry-SMS.com] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.cherrysms market link] (c) Felix Bechstein || ? || 0,05€ w/ sender id; 0,025€ w/o sender id || - || top || no restrictions known || no restrictions known || no utf8 ||
 || [http://www.developergarden.com t-com developer garden ] || [https://market.android.com/details?id=com.developergarden.android.connector market link] (c) Christian Kierdorf ||
 || [http://discotel.de/ discotel ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.discotel market link] (c) Felix Bechstein ||
-|| [http://www.exetel.com.au// extetel] || [com.baxtern.android.websms.connector.exetel market link] (c) Nathaniel Baxter ||
+|| [http://www.exetel.com.au// extetel] || [https://market.android.com/details?id=com.baxtern.android.websms.connector.exetel market link] (c) Nathaniel Baxter ||
 || [http://fishtext.com/ fishtext] || [https://market.android.com/details?id=com.fairmichael.fintan.websms.connector.fishtext market link] (c) Felix Bechstein, Fintan Fairmichael ||
 || [http://freenet.de/ freenet] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.freenet market link] (c) Felix Bechstein, Dirk Bliesener ||
 || [http://gmx.net GMX] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.gmx market link] (c) Felix Bechstein || ? || 10sms free per month; 50sms for 4€/month || Send Later, Custom Sender || medium || germany(?) || no restrictions known || no utf8 ||
@@ -29,7 +29,5 @@
 || [http://sunrise.ch Sunrise] || [https://market.android.com/details?id=com.rothconsulting.android.websms.connector.sunrise market link] (c) Koni Roth ||
 || [http://werbelokal.de/ werbelokal.de ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.werbelokal market link] (c) Felix Bechstein ||
 || [http://yallo.ch Yallo] || [https://market.android.com/details?id=com.rothconsulting.android.websms.connector.yallo market link] (c) Koni Roth ||
-
-
 
 
