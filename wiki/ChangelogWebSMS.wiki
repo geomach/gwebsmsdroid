@@ -3,6 +3,11 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.2====
+ * fix hiding Extras
+ * minor UI fixes
+ * internal fixes
+ * update translations
 ====v4.1====
  * bring back send button (hide it in settings)
 ====v4.0.1====
