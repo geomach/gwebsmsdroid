@@ -3,6 +3,9 @@
 
 =Changelog SMSdroid=
 ====v1.0====
+ * minor UI fix
+ * show date for messages newer than 1d
+====v1.0====
  * prepare for honeycomp devices
  * italian translation
  * fix FC
