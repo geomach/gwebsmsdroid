@@ -18,7 +18,7 @@
 || [http://www.my-cool-sms.com/en/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms/ My-Cool-SMS ] || [https://market.android.com/details?id=org.herrlado.websms.connector.mycoolsms market link] (c) Lado Kumsiashvili ||
 || [http://myphone.ge] myphone.ge || [https://market.android.com/details?id=org.herrlado.websms.connector.myphone market link] (c) Lado Kumsiashvili ||
 || [http://www.personal-voip.de/ pbxnetwork] || [https://market.android.com/details?id=com.websms.connector.pbxnetwork market link] (c) Lorenz Bauer, Felix Bechstein ||
-|| [http://o2.de/ o2.de] || [https://market.android.com/details?id=com.websms.connector.o2 market link] (c) Felix Bechstein, Lorenz Bauer ||
+|| [http://o2.de/ o2.de] || [https://market.android.com/details?id=com.websms.connector.o2 market link] (c) Felix Bechstein, Lorenz Bauer ||?||50 SMS/Month free with mobile internet packages||Only for mobile customers of O2||germany (?)||international sms might be billed to your account(?)||no utf8
 || [http://schoolnet.ch Schoolnet] || [https://market.android.com/details?id=com.rothconsulting.android.websms.connector.schoolnet market link] (c) Koni || || earn points on the website and have almost unlimited sms || for students only || medium || no restrictions known || Switzerland || utf8 ||
 || [http://sipgate.com/ sipgate] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sipgate market link] (c) Felix Bechstein, Mirko Weber ||
 || [http://sloono.de/ sloono] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sloono market link] (c) Felix Bechstein ||
