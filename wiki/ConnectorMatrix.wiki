@@ -2,10 +2,11 @@
 #labels Featured
 
 || *Service* || *Connector* || *Operating since* || *Cost* || *Extras* || *Stability* || *sender country* || *recipient country* || *utf8* ||
-|| [http://arcor.de] arcor || [https://market.android.com/details?id=org.herrlado.websms.connector.arcor market link] (c) Felix Bechstein, Lado Kumsiashvili ||
+|| [http://arcor.de arcor] || [https://market.android.com/details?id=org.herrlado.websms.connector.arcor market link] (c) Felix Bechstein, Lado Kumsiashvili ||
 || [http://beetalk.net Beetalk] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.beetalk market link] (c) J.P. ||
 || Betamax VoIP Reseller || [https://market.android.com/details?id=de.ub0r.android.websms.connector.betamax market link] (c) Jon Agüera ||
 || [http://www.cherry-sms.com/?ref=ZXAQDHJW Cherry-SMS.com] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.cherrysms market link] (c) Felix Bechstein || ? || 0,05€ w/ sender id; 0,025€ w/o sender id || - || top || no restrictions known || no restrictions known || no utf8 ||
+|| [http://www.comtube.com/ Comtube.com] || [https://market.android.com/details?id=com.comtube.websmsconnector market link] (c) Comtube Ltd. || ? || 0.3 rub (~0.01USD within Russia), 0.99 - 3.10 rub (~0.04-0.11 USD worldwide) || - || top || no restrictions known || no restrictions known || utf8 ||
 || [http://www.developergarden.com t-com developer garden ] || [https://market.android.com/details?id=com.developergarden.android.connector market link] (c) Christian Kierdorf ||
 || [http://discotel.de/ discotel ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.discotel market link] (c) Felix Bechstein ||
 || [http://www.exetel.com.au// extetel] || [https://market.android.com/details?id=com.baxtern.android.websms.connector.exetel market link] (c) Nathaniel Baxter ||
