@@ -2,6 +2,9 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v1.1.2====
+ * minor UI fix
+ * fix notification for ICS (issue #621)
 ====v1.1.1====
  * minor UI fix
 ====v1.1====
