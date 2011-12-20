@@ -2,6 +2,9 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v1.1.4====
+ * deactivate Sender if not available
+ * fix widget for galaxy nexus
 ====v1.1.3====
  * minor UI fix
 ====v1.1.2====
