@@ -3,6 +3,9 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.2.3====
+ * minor fixes
+ * update translations
 ====v4.2.2====
  * minor UI fix
 ====v4.2.1====
