@@ -2,6 +2,8 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v1.1.5====
+ * fix FC on android 1.6
 ====v1.1.4====
  * deactivate Sender if not available
  * fix widget for galaxy nexus
