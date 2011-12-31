@@ -3,6 +3,8 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.2.5====
+ * fix FC on android 1.6
 ====v4.2.4====
  * fix FC on android 1.6
 ====v4.2.3====
