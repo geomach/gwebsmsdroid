@@ -3,6 +3,11 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.2.6====
+ * UI fixes for HC/ICS
+ * show balance dialog on icon click (issue #638)
+ * show balance on update as toast notification (issue #638)
+ * add romanian translation
 ====v4.2.5====
  * fix FC on android 1.6
 ====v4.2.4====
