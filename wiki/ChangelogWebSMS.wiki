@@ -3,6 +3,9 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.2.7====
+ * fix notification for android 1.6-3.2
+ * update translations
 ====v4.2.6====
  * UI fixes for HC/ICS
  * show balance dialog on icon click (issue #638)
@@ -37,6 +40,8 @@
  * translation updates
 
 ==WebSMS 3.x==
+====v3.7.5====
+ * fix for new connectors
 ====v3.7.4====
  * fix FCs
  * update translations
