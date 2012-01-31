@@ -2,6 +2,8 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v1.1.8====
+ * fix notification for android 1.6-3.2
 ====v1.1.7====
  * UI fixes for HC/ICS
 ====v1.1.6====
