@@ -10,7 +10,7 @@ Sends unlimited international SMS with My-Cool-SMS MOBILE ECO and MOBILE EDGE. W
 
 [http://www.my-cool-sms.com/en/sms-pricing-sms-prepaid-sms-gateway/ref/websms Pricing]
 
-=== =Get Started! ====
+=== Get Started! ====
 
 [http://www.my-cool-sms.com/en/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms Get Started!]
 
@@ -167,8 +167,6 @@ WebSMS Android 發送簡訊高至765個字元, 能辨識Unicode, 顯示您的餘
 [http://www.my-cool-sms.com/cht/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms 準備開始!]
 
 [http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-1.2.apk 下載 WebSMS Connector]
-
-
 
 
 
