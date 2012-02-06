@@ -15,7 +15,7 @@ Sends unlimited international SMS with My-Cool-SMS MOBILE ECO and MOBILE EDGE. W
 
 [http://www.my-cool-sms.com/en/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms Get Started!]
 
-[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-2.0.apk Download WebSMS Connector]
+[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms.com-2.0.apk Download WebSMS Connector]
 
 
 == Deutsch · My-Cool-SMS · Die frische Art zu texten ==
@@ -34,7 +34,7 @@ Sendet unbegrenzt viele SMS Nachrichten mit MOBILE ECO und MOBILE EDGE Konten. F
 
 [http://www.my-cool-sms.com/de/sms-gateway-sms-app-sms-senden-sms-empfangen-sms-provider-sms-api/ref/websms Los geht's!]
 
-[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-2.0.apk WebSMS Connector runterladen]
+[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms.com-2.0.apk WebSMS Connector runterladen]
 
 
 == 	Español · My-Cool-SMS · La mejor forma de enviar mensajes de texto ==
@@ -53,7 +53,7 @@ Envía mensajes internacionales ilimitados con My-Cool-SMS MÓVIL ECO y MÓVIL E
 
 [http://www.my-cool-sms.com/es/sms-portal-sms-aplicacion-sms-servicio-sms-proveedor-sms-api/ref/websms ¡Inicia!]
 
-[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-2.0.apk Descargar WebSMS Connector]
+[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms.com-2.0.apk Descargar WebSMS Connector]
 
 
 == Français · My-Cool-SMS · Le meilleur plan SMS ==
@@ -72,7 +72,7 @@ Envoie des messages texte SMS internationaux illimités avec My-Cool-SMS MOBILE 
 
 [http://www.my-cool-sms.com/fr/sms-peripherique-sms-app-sms-service-sms-fournisseur-sms-api/ref/websms Démarrer!]
 
-[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-2.0.apk Télécharger WebSMS Connector]
+[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms.com-2.0.apk Télécharger WebSMS Connector]
 
 
 == Nederlands · My-Cool-SMS · De slimste manier om te smsen ==
@@ -91,7 +91,7 @@ Verstuurt onbeperkt internationale SMS met My-Cool-SMS MOBILE ECO en MOBILE EDGE
 
 [http://www.my-cool-sms.com/nl/sms-gateway-sms-app-sms-service-sms-aanbieder-sms-api/ref/websms Aan de slag!]
 
-[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-2.0.apk Download WebSMS Connector]
+[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms.com-2.0.apk Download WebSMS Connector]
 
 
 == Polski · My-Cool-SMS · Najsprytniejszy sposób wysylania wiadomosci ==
@@ -110,7 +110,7 @@ Wysyla bez ograniczen miedzynarodowe wiadomosci SMS za pomoca pakietów My-Cool-
 
 [http://www.my-cool-sms.com/pl/sms-wycena-sms-prepaid-sms-bramka/ref/websms Zacznij teraz!]
 
-[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-2.0.apk Pobierz WebSMS Connector]
+[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms.com-2.0.apk Pobierz WebSMS Connector]
 
 
 == Português · My-Cool-SMS · Sê inteligente ==
@@ -129,7 +129,7 @@ Envia mensagens internacionais ilimitadas com My-Cool-SMS MOBILE ECO e MOBILE ED
 
 [http://www.my-cool-sms.com/pt/porta-mensagens-aplicacoes-mensagens-servico-mensagens-provedor-mensagens-api-mensagens/ref/websms Começa!]
 
-[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-2.0.apk Descargar WebSMS Connector]
+[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms.com-2.0.apk Descargar WebSMS Connector]
 
 
 == 	Руccкий · My-Cool-SMS · Лучший способ отправлять sms ==
@@ -148,7 +148,7 @@ WebSMS Android отправляет сообщения до 765 символов
 
 [http://www.my-cool-sms.com/ru/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms Начать!]
 
-[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-2.0.apk Загрузить WebSMS Connector]
+[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms.com-2.0.apk Загрузить WebSMS Connector]
 
 
 == 	繁体中文 · My-Cool-SMS · 最智慧地發送簡訊 ==
@@ -167,4 +167,4 @@ WebSMS Android 發送簡訊高至765個字元, 能辨識Unicode, 顯示您的餘
 
 [http://www.my-cool-sms.com/cht/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms 準備開始!]
 
-[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms-2.0.apk 下載 WebSMS Connector]
+[http://code.google.com/p/websmsdroid/downloads/detail?name=Connector-my-cool-sms.com-2.0.apk 下載 WebSMS Connector]
