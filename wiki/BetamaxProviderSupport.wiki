@@ -4,6 +4,8 @@ This is a list of all known Betamax providers and what features they support. In
 
 = Feature Support Table =
 
+The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_status_codes
+
 || *Provider* || *Balance Checks* || *Sending Messages* ||
 || http://www.voipcheap.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.voipbuster.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
