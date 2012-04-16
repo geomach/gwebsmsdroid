@@ -1,11 +1,8 @@
-#List all known Betamax providers and what features they support.
-
 = Introduction =
 
-This is a list of all known Betamax providers and what features they support.
+This is a list of all known Betamax providers and what features they support. In early 2012, many of these providers disabled balance checks. If your provider does not support balance checks, a question mark ("?") will be shown.
 
-
-= Table =
+= Feature Support Table =
 
 || *Provider* || *Balance Checks* || *Sending Messages* ||
 || http://www.voipcheap.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
