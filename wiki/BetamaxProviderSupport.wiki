@@ -13,7 +13,7 @@ This is a list of all known Betamax providers and what features they support.
 || http://www.12voip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.dialnow.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.freecall.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
-|| http://www.justvoip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.justvoip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.lowratevoip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.smsdiscount.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.voipwise.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
@@ -26,6 +26,7 @@ This is a list of all known Betamax providers and what features they support.
 || http://www.powervoip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.voicetrading.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.voipblast.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.voiparound.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.jumblo.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.rynga.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.telbo.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
@@ -58,4 +59,3 @@ This is a list of all known Betamax providers and what features they support.
 || http://www.voipjumper.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voipsmash.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.netappel.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
-|| http://www.voiparound.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
