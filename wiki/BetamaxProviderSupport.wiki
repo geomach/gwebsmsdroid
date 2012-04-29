@@ -8,7 +8,7 @@ The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_
 
 || *Provider* || *Balance Checks* || *Sending Messages* ||
 || http://www.voipcheap.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
-|| http://www.voipbuster.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.voipbuster.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.12voip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.dialnow.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.freecall.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
