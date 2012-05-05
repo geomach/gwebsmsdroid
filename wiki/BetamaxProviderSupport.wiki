@@ -61,7 +61,6 @@ The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_
 || http://www.netappel.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 
 
-
 Changes:
 
-2012-05-04: Added nonoh.net
+2012-05-05: Added nonoh.net
