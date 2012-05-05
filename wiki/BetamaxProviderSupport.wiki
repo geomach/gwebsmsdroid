@@ -26,7 +26,7 @@ The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_
 || http://www.voicetrading.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.voipblast.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.voiparound.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
-|| http://www.nonoh.net || <font color=red>No (404)</font> || <font color=green>Yes</font> <font color="green">Yes</font> ||
+|| http://www.nonoh.net || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.jumblo.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.rynga.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.telbo.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
