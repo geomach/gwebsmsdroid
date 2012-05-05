@@ -59,3 +59,9 @@ The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_
 || http://www.voipjumper.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voipsmash.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.netappel.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
+
+
+
+Changes:
+
+2012-05-04: Added nonoh.net
