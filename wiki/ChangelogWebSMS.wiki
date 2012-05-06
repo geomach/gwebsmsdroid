@@ -3,6 +3,13 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.4====
+ * fix pasting long texts
+ * add czech translation
+ * update to abs 4.0
+====v4.3====
+ * fix pasting long texts
+ * add czech translation
 ====v4.2.8====
  * fix missing messages (issue #612)
  * fix "resend old messages" (issue #664)
