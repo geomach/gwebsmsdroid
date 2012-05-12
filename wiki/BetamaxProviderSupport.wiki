@@ -7,23 +7,23 @@ This is a list of all known Betamax providers and what features they support. In
 The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_status_codes
 
 || *Provider* || *Balance Checks* || *Sending Messages* ||
-|| http://www.voipcheap.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.voipcheap.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voipbuster.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
-|| http://www.12voip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.12voip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.dialnow.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.freecall.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.justvoip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.lowratevoip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
-|| http://www.smsdiscount.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.smsdiscount.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voipwise.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
-|| http://www.intervoip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.intervoip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.poivy.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.voipbusterpro.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.voipstunt.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.webcalldirect.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.budgetsip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
-|| http://www.powervoip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
-|| http://www.voicetrading.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.powervoip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
+|| http://www.voicetrading.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voipblast.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.voiparound.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
 || http://www.nonoh.net || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
