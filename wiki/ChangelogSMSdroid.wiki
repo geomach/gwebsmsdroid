@@ -2,6 +2,13 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v1.3.2====
+ * fix some FCs
+ * fix dark themed action bar
+ * move ads to message list
+====v1.3.1====
+ * fix dark themed action bar
+ * fix FC
 ====v1.3====
  * new (tiled) layout for conversations (thx to marek wehmer)
  * update to abs 4.0
