@@ -3,6 +3,11 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.4.2====
+ * fix non clickable icon
+ * fix FCs
+====v4.4.1====
+ * fix dark themed action bar
 ====v4.4====
  * fix pasting long texts
  * add czech translation
