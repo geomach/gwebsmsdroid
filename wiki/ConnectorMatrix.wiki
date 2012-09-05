@@ -6,8 +6,6 @@
 || [http://beetalk.net Beetalk] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.beetalk market link] (c) J.P. ||
 || Betamax VoIP Reseller || [https://market.android.com/details?id=de.ub0r.android.websms.connector.betamax market link] (c) Jon Agüera ||
 || [http://www.cherry-sms.com/?ref=ZXAQDHJW Cherry-SMS.com] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.cherrysms market link] (c) Felix Bechstein || ? || 0,05€ w/ sender id; 0,025€ w/o sender id || - || top || no restrictions known || no restrictions known || no utf8 ||
-|| [http://www.sms-club.ch sms-club.ch.ch] || [https://play.google.com/store/apps/details?id=ch.synox.android.websms.connector.smsclub market link] (c) A. Wingeier || 2007 || Fr. 0.08 - Fr. 0.15 per sms || - || top || switzerland || worldwide ||  ||
-
 || [http://www.comtube.com/ Comtube.com] || [https://market.android.com/details?id=com.comtube.websmsconnector market link] (c) Comtube Ltd. || ? || 0.3 rub (~0.01USD within Russia), 0.99 - 3.10 rub (~0.04-0.11 USD worldwide) || - || top || no restrictions known || no restrictions known || utf8 ||
 || [http://www.developergarden.com t-com developer garden ] || [https://market.android.com/details?id=com.developergarden.android.connector market link] (c) Christian Kierdorf ||
 || [http://discotel.de/ discotel ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.discotel market link] (c) Felix Bechstein ||
@@ -26,6 +24,7 @@
 || [http://sipgate.com/ sipgate] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sipgate market link] (c) Felix Bechstein, Mirko Weber ||
 || [http://sloono.de/ sloono] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sloono market link] (c) Felix Bechstein ||
 || [http://sms.ge/ sms.ge ] || [https://market.android.com/details?id=org.herrlado.websms.connector.smsge market link] (c) Lado Kumsiashvili ||
+|| [http://www.sms-club.ch sms-club.ch] || [https://play.google.com/store/apps/details?id=ch.synox.android.websms.connector.smsclub market link] (c) A. Wingeier || 2007 || Fr. 0.08 - Fr. 0.15 per sms || - || top || switzerland || worldwide ||  ||
 || [http://sms77.de/ sms77 ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sms77 market link] (c) Felix Bechstein ||
 || [http://smsjoker.de SMSJoker] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.smsjoker market link] (c) J.P. ||
 || [http://smspilot.ru/ smspilot.ru ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.smspilotru market link] (c) Felix Bechstein ||
