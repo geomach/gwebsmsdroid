@@ -3,6 +3,8 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.5.1====
+ * fix dark theme again (issue #742)
 ====v4.5====
  * update translations
  * minor fixes
