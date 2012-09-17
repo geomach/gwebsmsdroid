@@ -1,10 +1,11 @@
 = Introduction =
 
-This is a list of all known Betamax providers and what features they support. In early 2012, many of these providers disabled balance checks. If your provider does not support balance checks, a question mark ("?") will be shown.
+This is a list of all known Betamax providers and what features they support. In 2012, many of these providers disabled balance checks. If your provider does not support balance checks, a question mark ("?") will be shown.
 
 = Feature Support Table =
 
 The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_status_codes
+
 
 || *Provider* || *Balance Checks* || *Sending Messages* ||
 || http://www.voipcheap.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
@@ -15,13 +16,12 @@ The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_
 || http://www.justvoip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.lowratevoip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.smsdiscount.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
-|| http://www.voipwise.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.voipwise.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.intervoip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.poivy.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
-|| http://www.voipbusterpro.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.voipbusterpro.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voipstunt.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
-|| http://www.webcalldirect.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
-|| http://www.budgetsip.com || <font color="green">Yes</font> || <font color="green">Yes</font> ||
+|| http://www.webcalldirect.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.powervoip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voicetrading.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voipblast.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
@@ -38,7 +38,7 @@ The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_
 || http://www.sipdiscount.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voipdiscount.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.voipraider.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
-|| http://www.freevoipdeal.com || <font color="red">No (404)</font> || <font color="orange">Maybe (302)</font> ||
+|| http://www.freevoipdeal.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.cosmovoip.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.budgetvoipcall.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 || http://www.cheapbuzzer.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
@@ -61,6 +61,7 @@ The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_
 || http://www.netappel.com || <font color="red">No (404)</font> || <font color="green">Yes</font> ||
 
 
-Changes:
 
+Changes:
+2012-09-17: Update information
 2012-05-05: Added nonoh.net
