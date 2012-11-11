@@ -2,34 +2,34 @@
 #labels Featured
 
 || *Service* || *Connector* || *Operating since* || *Cost* || *Extras* || *Stability* || *sender country* || *recipient country* || *utf8* ||
-|| [http://arcor.de arcor] || [https://market.android.com/details?id=org.herrlado.websms.connector.arcor market link] (c) Felix Bechstein, Lado Kumsiashvili ||
-|| [http://beetalk.net Beetalk] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.beetalk market link] (c) J.P. ||
-|| Betamax VoIP Reseller || [https://market.android.com/details?id=de.ub0r.android.websms.connector.betamax market link] (c) Jon Agüera ||
-|| [http://www.cherry-sms.com/?ref=ZXAQDHJW Cherry-SMS.com] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.cherrysms market link] (c) Felix Bechstein || ? || 0,05€ w/ sender id; 0,025€ w/o sender id || - || top || no restrictions known || no restrictions known || no utf8 ||
-|| [http://www.comtube.com/ Comtube.com] || [https://market.android.com/details?id=com.comtube.websmsconnector market link] (c) Comtube Ltd. || ? || 0.3 rub (~0.01USD within Russia), 0.99 - 3.10 rub (~0.04-0.11 USD worldwide) || - || top || no restrictions known || no restrictions known || utf8 ||
-|| [http://www.developergarden.com t-com developer garden ] || [https://market.android.com/details?id=com.developergarden.android.connector market link] (c) Christian Kierdorf ||
-|| [http://discotel.de/ discotel ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.discotel market link] (c) Felix Bechstein ||
-|| [http://www.exetel.com.au// extetel] || [https://market.android.com/details?id=com.baxtern.android.websms.connector.exetel market link] (c) Nathaniel Baxter ||
-|| [http://fishtext.com/ fishtext] || [https://market.android.com/details?id=com.fairmichael.fintan.websms.connector.fishtext market link] (c) Felix Bechstein, Fintan Fairmichael ||
-|| [http://freenet.de/ freenet] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.freenet market link] (c) Felix Bechstein, Dirk Bliesener ||
-|| [http://gmx.net GMX] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.gmx market link] (c) Felix Bechstein || ? || 10sms free per month; 50sms for 4€/month || Send Later, Custom Sender || medium || germany(?) || no restrictions known || no utf8 ||
-|| [http://innosend.de/ innosend] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.innosend market link] (c) Felix Bechstein ||
-|| [http://magtifun.ge/ magtifun.ge ] || [https://market.android.com/details?id=org.herrlado.websms.connector.magtifunge market link] (c) Lado Kumsiashvili ||
-|| MeinBMW || [https://market.android.com/details?id=de.ub0r.android.websms.connector.meinbmw market link] (c) Silas Graffy, Felix Bechstein ||
-|| Mobilant || [https://play.google.com/store/apps/details?id=de.webdroid.android.websms.connector.mobilant] (c) Stefan Weber ||
-|| [http://www.my-cool-sms.com/en/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms/ My-Cool-SMS ] || [https://market.android.com/details?id=org.herrlado.websms.connector.mycoolsms market link] (c) Lado Kumsiashvili ||
-|| [http://myphone.ge] myphone.ge || [https://market.android.com/details?id=org.herrlado.websms.connector.myphone market link] (c) Lado Kumsiashvili ||
-|| [http://www.personal-voip.de/ pbxnetwork] || [https://market.android.com/details?id=com.websms.connector.pbxnetwork market link] (c) Lorenz Bauer, Felix Bechstein ||
-|| [http://o2.de/ o2.de] || [https://market.android.com/details?id=com.websms.connector.o2 market link] (c) Felix Bechstein, Lorenz Bauer ||?||50 SMS/Month free with mobile internet packages||Only for mobile customers of O2||medium||germany (?)||international sms might be billed to your account(?)||no utf8||
-|| [http://schoolnet.ch Schoolnet] || [https://market.android.com/details?id=com.rothconsulting.android.websms.connector.schoolnet market link] (c) Koni || || earn points on the website and have almost unlimited sms || for students only || medium || no restrictions known || Switzerland || utf8 ||
-|| [http://sipgate.com/ sipgate] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sipgate market link] (c) Felix Bechstein, Mirko Weber ||
-|| [http://sloono.de/ sloono] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sloono market link] (c) Felix Bechstein ||
-|| [http://sms.ge/ sms.ge ] || [https://market.android.com/details?id=org.herrlado.websms.connector.smsge market link] (c) Lado Kumsiashvili ||
-|| [http://www.sms-club.ch sms-club.ch] || [https://play.google.com/store/apps/details?id=ch.synox.android.websms.connector.smsclub market link] (c) A. Wingeier || 2007 || Fr. 0.08 - Fr. 0.15 per sms || - || top || switzerland || worldwide ||  ||
-|| [http://sms77.de/ sms77 ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.sms77 market link] (c) Felix Bechstein ||
-|| [http://smsjoker.de SMSJoker] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.smsjoker market link] (c) J.P. ||
-|| [http://smspilot.ru/ smspilot.ru ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.smspilotru market link] (c) Felix Bechstein ||
-|| [http://sunrise.ch Sunrise] || [https://market.android.com/details?id=com.rothconsulting.android.websms.connector.sunrise market link] (c) Koni || || 50sms free per month; possible to buy more || up to 480 characters (consumes 3sms) || top || no restrictions known || no restrictions known || utf8 ||
-|| [http://werbelokal.de/ werbelokal.de ] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.werbelokal market link] (c) Felix Bechstein ||
-|| [http://yallo.ch Yallo] || [https://market.android.com/details?id=com.rothconsulting.android.websms.connector.yallo market link] (c) Koni || || 30sms free per month; 50sms for CHF 4.- || max. 130 characters per sms || top || no restrictions known || no restrictions known || no utf8 ||
-|| [http://cabbagetexter.com/ Cabbage Gateway] (Irish mobile providers: Meteor, Three, Tesco Mobile, eMobile, and also O2 UK, Telenor Serbia) || [http://play.google.com/store/apps/details?id=com.mikebl71.android.websms.connector.cabbage market link] or [http://mikebl71.github.com/websms-connector-cabbage project web site] || || depends on provider || - || || no restrictions known || depends on provider || depends on provider ||
+|| [http://arcor.de arcor] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.arcor play store] (c) Felix Bechstein, Lado Kumsiashvili ||
+|| [http://beetalk.net Beetalk] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.beetalk play store] (c) J.P. ||
+|| Betamax VoIP Reseller || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.betamax play store] (c) Jon Agüera ||
+|| [http://www.cherry-sms.com/?ref=ZXAQDHJW Cherry-SMS.com] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.cherrysms play store] (c) Felix Bechstein || ? || 0,05€ w/ sender id; 0,025€ w/o sender id || - || top || no restrictions known || no restrictions known || no utf8 ||
+|| [http://www.comtube.com/ Comtube.com] || [https://play.google.com/store/apps/details?id=com.comtube.websmsconnector play store] (c) Comtube Ltd. || ? || 0.3 rub (~0.01USD within Russia), 0.99 - 3.10 rub (~0.04-0.11 USD worldwide) || - || top || no restrictions known || no restrictions known || utf8 ||
+|| [http://www.developergarden.com t-com developer garden ] || [https://play.google.com/store/apps/details?id=com.developergarden.android.connector play store] (c) Christian Kierdorf ||
+|| [http://discotel.de/ discotel ] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.discotel play store] (c) Felix Bechstein ||
+|| [http://www.exetel.com.au// extetel] || [https://play.google.com/store/apps/details?id=com.baxtern.android.websms.connector.exetel play store] (c) Nathaniel Baxter ||
+|| [http://fishtext.com/ fishtext] || [https://play.google.com/store/apps/details?id=com.fairmichael.fintan.websms.connector.fishtext play store] (c) Felix Bechstein, Fintan Fairmichael ||
+|| [http://freenet.de/ freenet] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.freenet play store] (c) Felix Bechstein, Dirk Bliesener ||
+|| [http://gmx.net GMX] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.gmx play store] (c) Felix Bechstein || ? || 10sms free per month; 50sms for 4€/month || Send Later, Custom Sender || medium || germany(?) || no restrictions known || no utf8 ||
+|| [http://innosend.de/ innosend] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.innosend play store] (c) Felix Bechstein ||
+|| [http://magtifun.ge/ magtifun.ge ] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.magtifunge play store] (c) Lado Kumsiashvili ||
+|| MeinBMW || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.meinbmw play store] (c) Silas Graffy, Felix Bechstein ||
+|| Mobilant || [https://play.google.com/store/apps/details?id=de.webdroid.android.websms.connector.mobilant play store] (c) Stefan Weber ||
+|| [http://www.my-cool-sms.com/en/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms/ My-Cool-SMS ] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.mycoolsms play store] (c) Lado Kumsiashvili ||
+|| [http://myphone.ge] myphone.ge || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.myphone play store] (c) Lado Kumsiashvili ||
+|| [http://www.personal-voip.de/ pbxnetwork] || [https://play.google.com/store/apps/details?id=com.websms.connector.pbxnetwork play store] (c) Lorenz Bauer, Felix Bechstein ||
+|| [http://o2.de/ o2.de] || [https://play.google.com/store/apps/details?id=com.websms.connector.o2 play store] (c) Felix Bechstein, Lorenz Bauer ||?||50 SMS/Month free with mobile internet packages||Only for mobile customers of O2||medium||germany (?)||international sms might be billed to your account(?)||no utf8||
+|| [http://schoolnet.ch Schoolnet] || [https://play.google.com/store/apps/details?id=com.rothconsulting.android.websms.connector.schoolnet play store] (c) Koni || || earn points on the website and have almost unlimited sms || for students only || medium || no restrictions known || Switzerland || utf8 ||
+|| [http://sipgate.com/ sipgate] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.sipgate play store] (c) Felix Bechstein, Mirko Weber ||
+|| [http://sloono.de/ sloono] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.sloono play store] (c) Felix Bechstein ||
+|| [http://sms.ge/ sms.ge ] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.smsge play store] (c) Lado Kumsiashvili ||
+|| [http://www.sms-club.ch sms-club.ch] || [https://play.google.com/store/apps/details?id=ch.synox.android.websms.connector.smsclub play store] (c) A. Wingeier || 2007 || Fr. 0.08 - Fr. 0.15 per sms || - || top || switzerland || worldwide ||  ||
+|| [http://sms77.de/ sms77 ] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.sms77 play store] (c) Felix Bechstein ||
+|| [http://smsjoker.de SMSJoker] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.smsjoker play store] (c) J.P. ||
+|| [http://smspilot.ru/ smspilot.ru ] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.smspilotru play store] (c) Felix Bechstein ||
+|| [http://sunrise.ch Sunrise] || [https://play.google.com/store/apps/details?id=com.rothconsulting.android.websms.connector.sunrise play store] (c) Koni || || 50sms free per month; possible to buy more || up to 480 characters (consumes 3sms) || top || no restrictions known || no restrictions known || utf8 ||
+|| [http://werbelokal.de/ werbelokal.de ] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.werbelokal play store] (c) Felix Bechstein ||
+|| [http://yallo.ch Yallo] || [https://play.google.com/store/apps/details?id=com.rothconsulting.android.websms.connector.yallo play store] (c) Koni || || 30sms free per month; 50sms for CHF 4.- || max. 130 characters per sms || top || no restrictions known || no restrictions known || no utf8 ||
+|| [http://cabbagetexter.com/ Cabbage Gateway] (Irish mobile providers: Meteor, Three, Tesco Mobile, eMobile, and also O2 UK, Telenor Serbia) || [http://play.google.com/store/apps/details?id=com.mikebl71.android.websms.connector.cabbage play store] or [http://mikebl71.github.com/websms-connector-cabbage project web site] || || depends on provider || - || || no restrictions known || depends on provider || depends on provider ||
