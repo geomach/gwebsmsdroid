@@ -16,6 +16,7 @@
 || [http://innosend.de/ innosend] || [https://market.android.com/details?id=de.ub0r.android.websms.connector.innosend market link] (c) Felix Bechstein ||
 || [http://magtifun.ge/ magtifun.ge ] || [https://market.android.com/details?id=org.herrlado.websms.connector.magtifunge market link] (c) Lado Kumsiashvili ||
 || MeinBMW || [https://market.android.com/details?id=de.ub0r.android.websms.connector.meinbmw market link] (c) Silas Graffy, Felix Bechstein ||
+|| Mobilant || [https://play.google.com/store/apps/details?id=de.webdroid.android.websms.connector.mobilant] (c) Stefan Weber ||
 || [http://www.my-cool-sms.com/en/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms/ My-Cool-SMS ] || [https://market.android.com/details?id=org.herrlado.websms.connector.mycoolsms market link] (c) Lado Kumsiashvili ||
 || [http://myphone.ge] myphone.ge || [https://market.android.com/details?id=org.herrlado.websms.connector.myphone market link] (c) Lado Kumsiashvili ||
 || [http://www.personal-voip.de/ pbxnetwork] || [https://market.android.com/details?id=com.websms.connector.pbxnetwork market link] (c) Lorenz Bauer, Felix Bechstein ||
