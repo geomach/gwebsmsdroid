@@ -3,6 +3,9 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.5.2====
+ * automatically resend messages (thanks to Michael Blinov)
+ * minor fixes
 ====v4.5.1====
  * fix dark theme again (issue #742)
 ====v4.5====
