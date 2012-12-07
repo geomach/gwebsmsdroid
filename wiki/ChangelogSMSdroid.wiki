@@ -2,6 +2,8 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v1.4.1====
+ * minor fixes
 ====v1.4====
  * minor fixes
  * inner changes
