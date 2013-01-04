@@ -2,6 +2,8 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v1.4.3====
+ * add polish translation (thanks to Karol Szafrański)
 ====v1.4.2====
  * ignore non latin characters in search (issue #579)
  * add hungarian translation (thanks to Ferenc Takács)
