@@ -3,6 +3,9 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.5.4====
+ * fix FCs
+ * update translations
 ====v4.5.3====
  * ignore non latin characters in search (issue #579)
  * update hungarian translation (thanks to Ferenc Takács)
