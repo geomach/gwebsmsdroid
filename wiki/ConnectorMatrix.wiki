@@ -2,6 +2,7 @@
 #labels Featured
 
 || *Service* || *Connector* || *Operating since* || *Cost* || *Extras* || *Stability* || *sender country* || *recipient country* || *utf8* ||
+|| [http://smsflatrate.net smsflatrate.net] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.smsflatratenet play store] (c) Felix Bechstein for Kloppe Media || ? || 20SMS/month free / 1€ balance for regestration with WebSMS / from 1.99ct/SMS || lots of different gateways, bulk SMS, send later || top || no restrictions known || no restrictions known ||
 || [http://arcor.de arcor] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.arcor play store] (c) Felix Bechstein, Lado Kumsiashvili ||
 || [http://beetalk.net Beetalk] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.beetalk play store] (c) J.P. ||
 || Betamax VoIP Reseller || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.betamax play store] (c) Jon Agüera ||
@@ -14,7 +15,7 @@
 || [http://freenet.de/ freenet] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.freenet play store] (c) Felix Bechstein, Dirk Bliesener ||
 || [http://gmx.net GMX] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.gmx play store] (c) Felix Bechstein || ? || 10sms free per month; 50sms for 2.50€/month || Send Later, Custom Sender || medium || germany(?) || no restrictions known || no utf8 ||
 || [http://innosend.de/ innosend] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.innosend play store] (c) Felix Bechstein ||
-|| [http://magtifun.ge/ magtifun.ge ] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.magtifunge play store] (c) Lado Kumsiashvili ||
+|| [http://magtifun.ge/ magtifun.ge] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.magtifunge play store] (c) Lado Kumsiashvili ||
 || MeinBMW || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.meinbmw play store] (c) Silas Graffy, Felix Bechstein ||
 || Mobilant || [https://play.google.com/store/apps/details?id=de.webdroid.android.websms.connector.mobilant play store] (c) Stefan Weber ||
 || [http://www.my-cool-sms.com/en/sms-gateway-sms-app-sms-service-sms-provider-sms-api/ref/websms/ My-Cool-SMS ] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.mycoolsms play store] (c) Lado Kumsiashvili ||
@@ -22,7 +23,7 @@
 || [http://www.personal-voip.de/ pbxnetwork] || [https://play.google.com/store/apps/details?id=com.websms.connector.pbxnetwork play store] (c) Lorenz Bauer, Felix Bechstein ||
 || [http://o2.de/ o2.de] || [https://play.google.com/store/apps/details?id=com.websms.connector.o2 play store] (c) Felix Bechstein, Lorenz Bauer ||?||50 SMS/Month free with mobile internet packages||Only for mobile customers of O2||medium||germany (?)||international sms might be billed to your account(?)||no utf8||
 || [http://schoolnet.ch Schoolnet] || [https://play.google.com/store/apps/details?id=com.rothconsulting.android.websms.connector.schoolnet play store] (c) Koni || || earn points on the website and have almost unlimited sms || for students only || medium || no restrictions known || Switzerland || utf8 ||
-|| [http://sipgate.com/ sipgate] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.sipgate play store] (c) Felix Bechstein, Mirko Weber ||
+|| [http://sipgate.com/ sipgate] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.sipgate play store] (c) Felix Bechstein, Mirko Weber || ? || 7,9ct/SMS ||
 || [http://sloono.de/ sloono] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.sloono play store] (c) Felix Bechstein ||
 || [http://sms.ge/ sms.ge ] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.smsge play store] (c) Lado Kumsiashvili ||
 || [http://www.sms-club.ch sms-club.ch] || [https://play.google.com/store/apps/details?id=ch.synox.android.websms.connector.smsclub play store] (c) A. Wingeier || 2007 || Fr. 0.08 - Fr. 0.15 per sms || - || top || switzerland || worldwide ||  ||
