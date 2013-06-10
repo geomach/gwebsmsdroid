@@ -2,7 +2,7 @@
 #labels Featured
 
 || *Service* || *Connector* || *Operating since* || *Cost* || *Extras* || *Stability* || *sender country* || *recipient country* || *utf8* ||
-|| [http://smsflatrate.net smsflatrate.net] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.smsflatratenet play store] (c) Felix Bechstein for Kloppe Media || ? || 20SMS/month free / 1€ balance for regestration with WebSMS / from 1.99ct/SMS || lots of different gateways, bulk SMS, send later || top || no restrictions known || no restrictions known ||
+|| [http://smsflatrate.net smsflatrate.net] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.smsflatratenet play store] (c) Felix Bechstein for Kloppe Media || 2009 || 20SMS/month free / 1€ balance for registration with WebSMS / from 1.99ct/SMS || lots of different gateways, bulk SMS, send later || top || no restrictions known || no restrictions known || utf8 with restrictions ||
 || [http://arcor.de arcor] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.arcor play store] (c) Felix Bechstein, Lado Kumsiashvili ||
 || [http://beetalk.net Beetalk] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.beetalk play store] (c) J.P. ||
 || Betamax VoIP Reseller || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.betamax play store] (c) Jon Agüera ||
