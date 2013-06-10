@@ -12,7 +12,7 @@
 || [http://www.exetel.com.au// extetel] || [https://play.google.com/store/apps/details?id=com.baxtern.android.websms.connector.exetel play store] (c) Nathaniel Baxter ||
 || [http://fishtext.com/ fishtext] || [https://play.google.com/store/apps/details?id=com.fairmichael.fintan.websms.connector.fishtext play store] (c) Felix Bechstein, Fintan Fairmichael ||
 || [http://freenet.de/ freenet] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.freenet play store] (c) Felix Bechstein, Dirk Bliesener ||
-|| [http://gmx.net GMX] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.gmx play store] (c) Felix Bechstein || ? || 10sms free per month; 50sms for 4€/month || Send Later, Custom Sender || medium || germany(?) || no restrictions known || no utf8 ||
+|| [http://gmx.net GMX] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.gmx play store] (c) Felix Bechstein || ? || 10sms free per month; 50sms for 2.50€/month || Send Later, Custom Sender || medium || germany(?) || no restrictions known || no utf8 ||
 || [http://innosend.de/ innosend] || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.innosend play store] (c) Felix Bechstein ||
 || [http://magtifun.ge/ magtifun.ge ] || [https://play.google.com/store/apps/details?id=org.herrlado.websms.connector.magtifunge play store] (c) Lado Kumsiashvili ||
 || MeinBMW || [https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.meinbmw play store] (c) Silas Graffy, Felix Bechstein ||
