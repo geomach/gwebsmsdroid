@@ -2,6 +2,10 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v1.5====
+ * jump to MessageListActivity on sendto: intent (issue #796)
+ * add Portuguese translation (thanks to Sérgio Marques)
+ * update translations
 ====v1.4.4====
  * minor fixes (eg. issue #774)
  * update translations
