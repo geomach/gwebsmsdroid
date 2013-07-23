@@ -3,6 +3,10 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.7====
+ * hide intro if connector is installed (issue #800)
+ * add Portuguese translation (thanks to Sérgio Marques)
+ * update translations
 ====v4.6====
  * promote smsflatrate.net connector with 20SMS/month free
  * inner changes
