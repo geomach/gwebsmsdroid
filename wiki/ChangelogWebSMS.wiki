@@ -3,6 +3,11 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.7.1====
+ * allow removing diacritics (issue #224)
+ * fix send later after send (issue #805)
+ * minor UI changes
+ * prepare for Android 4.4
 ====v4.7====
  * hide intro if connector is installed (issue #800)
  * add Portuguese translation (thanks to Sérgio Marques)
