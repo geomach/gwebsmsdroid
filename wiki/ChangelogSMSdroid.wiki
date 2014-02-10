@@ -4,7 +4,7 @@
 =Changelog SMSdroid=
 ====v1.6====
  * basic SMS app handling on Android 4.4 (warning: no MMS capabilities yet) (issue #809)
- * save messages sent via WebSMS
+ * save messages sent via WebSMS (issue #809)
 ====v1.5====
  * jump to MessageListActivity on sendto: intent (issue #796)
  * add Portuguese translation (thanks to Sérgio Marques)
