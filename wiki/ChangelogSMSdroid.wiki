@@ -2,6 +2,12 @@
 #labels Changelog,Featured
 
 =Changelog SMSdroid=
+====v1.6.2====
+ * fix multi part SMS on Android 4.4 again
+ * fix some FCs
+====v1.6.1====
+ * fix multi part SMS on Android 4.4
+ * fix Call Meter integration on Android 4.4
 ====v1.6====
  * basic SMS app handling on Android 4.4 (warning: no MMS capabilities yet) (issue #809)
  * save messages sent via WebSMS (issue #809)
