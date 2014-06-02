@@ -3,6 +3,9 @@
 
 =Changelog WebSMS=
 ==WebSMS 4.x==
+====v4.8.1====
+ * fix landscape menu
+ * fix Call Meter integration on Android 4.4
 ====v4.8====
  * Android 4.4: save sent messages via SMSdroid or enabled AppOpps (issue #809)
 ====v4.7.1====
