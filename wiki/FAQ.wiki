@@ -69,33 +69,6 @@ You should not use a connector sending messages without YOUR sender id.
 Some connectors do support sending with and without sender id.
 Without sender id might be cheaper. But a direct reply is not possible.
 
-==Why does WebSMS stopped saving messages with Android 4.4?==
-
-With Android 4.4 aka KitKat only one single app is allowed to write into the central SMS database.
-
-It makes no sense allowing WebSMS to be this only one app, because WebSMS is not a full featured SMS application.
-You would not be able to receive or read any incoming text message.
-
-==Why is SMSdroid not available for Android 4.4?==
-
-This is actually the same problem like the question above.
-
-SMSdroid is only a viewer for the SMS database with some basic write operations to mark messages as read or delete a message.
-However, SMSdroid can not write incoming new messages to the SMS database.
-This is done by the standard/selected default SMS app.
-
-With Android 4.4 aka KitKat only the selected SMS app is able to write to the SMS databse.
-You do not want to be SMSdroid this one SMS app, because SMSdroid is not full featured (e.g. can read real MMS, can write incoming SMS/MMS to SMS database).
-But because it is not the selected app, it would not be able to mark SMS as read.
-
-That's why I decided to mark SMSdroid as not compatible to Android 4.4 and above.
-
-A solution for both problems would be to build a full featured SMS app with build in WebSMS functionalities.
-
-But as SMS usage itself and the user base for both apps is shrinking, I won't do it myself alone.
-Feel free to fork SMSdroid fix these things.
-I'll be happy to merge these patches into the master.
-
 ==I have issues with/feature requests for any of the apps!==
 
 Please use the [http://code.google.com/p/websmsdroid/issues/list issues] to report issues or feature requests. Comments on this wiki page won't get read!
